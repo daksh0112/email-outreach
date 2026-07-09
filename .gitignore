@@ -1,0 +1,4 @@
+﻿run_batch.bat
+run_log.txt
+__pycache__/
+*.pyc
