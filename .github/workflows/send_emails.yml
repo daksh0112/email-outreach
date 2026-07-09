@@ -9,6 +9,8 @@ on:
 jobs:
   send-emails:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -33,4 +35,4 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add sent_emails_list.txt send_progress.txt failed_remaining.json || true
           git diff --staged --quiet || git commit -m "chore: update sent list [skip ci]"
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/daksh0112/email-outreach.git HEAD:main
