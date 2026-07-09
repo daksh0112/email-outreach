@@ -285,7 +285,7 @@ def log_sent(email_addr, name, company):
 
 # ── MAIN BATCH SEND ────────────────────────────────────────────────────────────
 def run_batch():
-    contacts = json.loads(Path(CONTACTS_JSON).read_text(encoding="utf-8"))
+    contacts = json.loads(Path(CONTACTS_JSON).read_text(encoding="utf-8-sig"))
     sent     = load_sent()
 
     # Filter: not already sent, not excluded domain
@@ -346,7 +346,7 @@ def run_batch():
 
     # Save failed
     if failed_list:
-        Path(FAILED_FILE).write_text(json.dumps(failed_list, indent=2), encoding="utf-8")
+        Path(FAILED_FILE).write_text(json.dumps(failed_list, indent=2), encoding="utf-8-sig")
 
     print(f"\n{'='*55}", flush=True)
     print(f"  Run complete", flush=True)
@@ -462,7 +462,7 @@ def fetch_replies():
 # ── PROGRESS CHECK ─────────────────────────────────────────────────────────────
 def check_progress():
     sent = load_sent()
-    contacts = json.loads(Path(CONTACTS_JSON).read_text(encoding="utf-8"))
+    contacts = json.loads(Path(CONTACTS_JSON).read_text(encoding="utf-8-sig"))
     remaining = [c for c in contacts if c["email"] not in sent]
     print(f"\n[PROGRESS]", flush=True)
     print(f"  Sent      : {len(sent)}", flush=True)
