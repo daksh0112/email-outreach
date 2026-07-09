@@ -23,7 +23,7 @@ from datetime import datetime
 _ON_GITHUB = os.environ.get("GITHUB_ACTIONS") == "true"
 
 GMAIL_USER         = os.environ.get("GMAIL_USER",         "dakshmanuarya@gmail.com")
-GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "fxzofaoxgaxdavjj")
+GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
 
 if _ON_GITHUB:
     # Relative paths — files live in the repo root on GitHub Actions
