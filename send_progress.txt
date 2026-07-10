@@ -1,8 +1,8 @@
-2026-07-10 07:25:33 | anshita.khandelwal@sap.com | Anshita Khandelwal | SAP Labs India
-2026-07-10 07:25:45 | dmanthri@salesforce.com | Daniel J. Manthri | Salesforce India
-2026-07-10 07:25:55 | esonchhatra@salesforce.com | Ektaa Sonchhatra | Salesforce India
-2026-07-10 07:26:07 | pbaruah@salesforce.com | Pallabi Baruah | Salesforce India
-2026-07-10 07:26:18 | dipika_saha@intuit.com | Dipika Saha | Intuit India
-2026-07-10 07:26:29 | soumya_sulegai@intuit.com | Somya Sulegai | Intuit India
-2026-07-10 07:26:41 | ramesh.mudigiri@servicenow.com | Ramesh Mudigiri | ServiceNow India
-2026-07-10 07:26:52 | ram.neelam@servicenow.com | Ram Neelam | ServiceNow India
+2026-07-10 14:26:52 | achipkar@linkedin.com | Abhilash Chipkar | LinkedIn India (Microsoft)
+2026-07-10 14:27:03 | ashrao@linkedin.com | Ashirwad Anil Rao | LinkedIn India (Microsoft)
+2026-07-10 14:27:14 | kartheek.peyyeti@uber.com | Kartheek Peyyeti | Uber India
+2026-07-10 14:27:25 | rajendra@uber.com | Rajendra Prasad | Uber India
+2026-07-10 14:27:35 | poonamg@netflix.com | Poonam Gupta | Netflix India
+2026-07-10 14:27:48 | kamalikag@vmware.com | Kamalika Ghosh | VMware India (Broadcom)
+2026-07-10 14:27:59 | ddevassy@vmware.com | Divya Devassy | VMware India (Broadcom)
+2026-07-10 14:28:10 | nkhoja@vmware.com | Nikhat Khoja | VMware India (Broadcom)
