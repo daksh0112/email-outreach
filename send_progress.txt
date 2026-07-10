@@ -1,8 +1,8 @@
-2026-07-10 06:10:54 | girdhar@adobe.com | Himanshi Girdhar | Adobe India
-2026-07-10 06:11:05 | jraju@adobe.com | Jerin Raju | Adobe India
-2026-07-10 06:11:16 | skalra@adobe.com | Swati Kalra | Adobe India
-2026-07-10 06:11:27 | anil.agrawal@oracle.com | Anil Agrawal | Oracle India
-2026-07-10 06:11:37 | priya.venkataraman@oracle.com | Priya Venkataraman | Oracle India
-2026-07-10 06:11:49 | jaspreet.walia@oracle.com | Jaspreet Walia | Oracle India
-2026-07-10 06:12:00 | kamal.stephen@sap.com | Kamal Stephen | SAP Labs India
-2026-07-10 06:12:10 | suvarna.kartha@sap.com | Suvarna Kartha | SAP Labs India
+2026-07-10 07:25:33 | anshita.khandelwal@sap.com | Anshita Khandelwal | SAP Labs India
+2026-07-10 07:25:45 | dmanthri@salesforce.com | Daniel J. Manthri | Salesforce India
+2026-07-10 07:25:55 | esonchhatra@salesforce.com | Ektaa Sonchhatra | Salesforce India
+2026-07-10 07:26:07 | pbaruah@salesforce.com | Pallabi Baruah | Salesforce India
+2026-07-10 07:26:18 | dipika_saha@intuit.com | Dipika Saha | Intuit India
+2026-07-10 07:26:29 | soumya_sulegai@intuit.com | Somya Sulegai | Intuit India
+2026-07-10 07:26:41 | ramesh.mudigiri@servicenow.com | Ramesh Mudigiri | ServiceNow India
+2026-07-10 07:26:52 | ram.neelam@servicenow.com | Ram Neelam | ServiceNow India

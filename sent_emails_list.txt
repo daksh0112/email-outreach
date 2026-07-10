@@ -22,3 +22,11 @@ priya.venkataraman@oracle.com
 jaspreet.walia@oracle.com
 kamal.stephen@sap.com
 suvarna.kartha@sap.com
+anshita.khandelwal@sap.com
+dmanthri@salesforce.com
+esonchhatra@salesforce.com
+pbaruah@salesforce.com
+dipika_saha@intuit.com
+soumya_sulegai@intuit.com
+ramesh.mudigiri@servicenow.com
+ram.neelam@servicenow.com
