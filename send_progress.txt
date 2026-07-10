@@ -1,8 +1,8 @@
-2026-07-09 15:10:21 | samtac@amazon.com | Samta Chopra | Amazon India
-2026-07-09 15:10:33 | heenamehta@fb.com | Heena Mehta | Meta / Facebook India
-2026-07-09 15:10:45 | ritika.mathur@fb.com | Ritika Mathur | Meta / Facebook India
-2026-07-09 15:10:57 | divina_bajpai@apple.com | Divina Bajpai | Apple India
-2026-07-09 15:11:08 | renu.sevanthi@apple.com | Renu Sevanthi | Apple India
-2026-07-09 15:11:20 | kchakravarthy@atlassian.com | Kavita Chakravarthy | Atlassian India
-2026-07-09 15:11:31 | njoy@atlassian.com | Neethu Joy | Atlassian India
-2026-07-09 15:11:43 | tpawar@atlassian.com | Tanushree Pawar | Atlassian India
+2026-07-10 06:10:54 | girdhar@adobe.com | Himanshi Girdhar | Adobe India
+2026-07-10 06:11:05 | jraju@adobe.com | Jerin Raju | Adobe India
+2026-07-10 06:11:16 | skalra@adobe.com | Swati Kalra | Adobe India
+2026-07-10 06:11:27 | anil.agrawal@oracle.com | Anil Agrawal | Oracle India
+2026-07-10 06:11:37 | priya.venkataraman@oracle.com | Priya Venkataraman | Oracle India
+2026-07-10 06:11:49 | jaspreet.walia@oracle.com | Jaspreet Walia | Oracle India
+2026-07-10 06:12:00 | kamal.stephen@sap.com | Kamal Stephen | SAP Labs India
+2026-07-10 06:12:10 | suvarna.kartha@sap.com | Suvarna Kartha | SAP Labs India

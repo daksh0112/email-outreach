@@ -14,3 +14,11 @@ renu.sevanthi@apple.com
 kchakravarthy@atlassian.com
 njoy@atlassian.com
 tpawar@atlassian.com
+girdhar@adobe.com
+jraju@adobe.com
+skalra@adobe.com
+anil.agrawal@oracle.com
+priya.venkataraman@oracle.com
+jaspreet.walia@oracle.com
+kamal.stephen@sap.com
+suvarna.kartha@sap.com
