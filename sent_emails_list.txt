@@ -38,3 +38,11 @@ poonamg@netflix.com
 kamalikag@vmware.com
 ddevassy@vmware.com
 nkhoja@vmware.com
+skatiyar@cisco.com
+nitferna@cisco.com
+kamlesh.jagdale@nutanix.com
+sindhuja.p@nutanix.com
+balaji.sundaravadivel@rubrik.com
+hari.jeta@rubrik.com
+shreyas.katkar@cohesity.com
+kavitha.ts@cohesity.com

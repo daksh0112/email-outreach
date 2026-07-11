@@ -1,8 +1,8 @@
-2026-07-10 14:26:52 | achipkar@linkedin.com | Abhilash Chipkar | LinkedIn India (Microsoft)
-2026-07-10 14:27:03 | ashrao@linkedin.com | Ashirwad Anil Rao | LinkedIn India (Microsoft)
-2026-07-10 14:27:14 | kartheek.peyyeti@uber.com | Kartheek Peyyeti | Uber India
-2026-07-10 14:27:25 | rajendra@uber.com | Rajendra Prasad | Uber India
-2026-07-10 14:27:35 | poonamg@netflix.com | Poonam Gupta | Netflix India
-2026-07-10 14:27:48 | kamalikag@vmware.com | Kamalika Ghosh | VMware India (Broadcom)
-2026-07-10 14:27:59 | ddevassy@vmware.com | Divya Devassy | VMware India (Broadcom)
-2026-07-10 14:28:10 | nkhoja@vmware.com | Nikhat Khoja | VMware India (Broadcom)
+2026-07-11 06:05:47 | skatiyar@cisco.com | Samta Katiyar | Cisco India
+2026-07-11 06:05:57 | nitferna@cisco.com | Nita Fernandes | Cisco India
+2026-07-11 06:06:08 | kamlesh.jagdale@nutanix.com | Kamlesh Jagdale | Nutanix India
+2026-07-11 06:06:19 | sindhuja.p@nutanix.com | Sindhuja Pandian | Nutanix India
+2026-07-11 06:06:30 | balaji.sundaravadivel@rubrik.com | Balaji Sundaravadivel | Rubrik India
+2026-07-11 06:06:41 | hari.jeta@rubrik.com | Hari Prasad Jeta | Rubrik India
+2026-07-11 06:06:52 | shreyas.katkar@cohesity.com | Shreyas Katkar | Cohesity India
+2026-07-11 06:07:03 | kavitha.ts@cohesity.com | Kavitha TS | Cohesity India
