@@ -46,3 +46,11 @@ balaji.sundaravadivel@rubrik.com
 hari.jeta@rubrik.com
 shreyas.katkar@cohesity.com
 kavitha.ts@cohesity.com
+felwin.rodrigues@cohesity.com
+aboyalla@paloaltonetworks.com
+sdasan@paloaltonetworks.com
+krishna.kishore@postman.com
+sonal.alva@postman.com
+monika.gunalan@postman.com
+rahul.p@browserstack.com
+snehil.s@browserstack.com
