@@ -1,8 +1,8 @@
-2026-07-12 06:25:09 | vignesh.srikanth@freshworks.com | Vignesh Srikanth | Freshworks India
-2026-07-12 06:25:21 | divya.balraj@freshworks.com | Divya Balraj | Freshworks India
-2026-07-12 06:25:32 | skurudi@qualcomm.com | Shikha Kurudi | Qualcomm India
-2026-07-12 06:25:44 | muralim@qualcomm.com | Murali | Qualcomm India
-2026-07-12 06:25:56 | vkatoor@mathworks.com | Vishnu Katoor | Mathworks India
-2026-07-12 06:26:07 | jordan.sarasan@mathworks.com | Jordan Sarasan | Mathworks India
-2026-07-12 06:26:18 | Keshavk@mathworks.com | Keshav K | Mathworks India
-2026-07-12 06:26:30 | fjose@paypal.com | Frijo Jose | PayPal India
+2026-07-12 13:19:22 | prinayak@paypal.com | Priyanka | PayPal India
+2026-07-12 13:19:33 | asarma@paypal.com | Arun P Sarma | PayPal India
+2026-07-12 13:19:44 | sathish.mg@visa.com | Sathish M | Visa India
+2026-07-12 13:19:56 | snanjundaiah@visa.com | Shilpa Nanjundaiah | Visa India
+2026-07-12 13:20:07 | hes@nvidia.com | Hemachander Santhanam | Nvidia India
+2026-07-12 13:20:18 | daniel@nvidia.com | Jimcy Daniel | Nvidia India
+2026-07-12 13:20:30 | spiparsania@stripe.com | Sonal Piparsania | Stripe India
+2026-07-12 13:20:41 | aishwarya.dhakate@walmart.com | Aishwarya Dhakate | Walmart Global Tech India
