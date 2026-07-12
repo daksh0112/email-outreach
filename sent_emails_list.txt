@@ -54,3 +54,11 @@ sonal.alva@postman.com
 monika.gunalan@postman.com
 rahul.p@browserstack.com
 snehil.s@browserstack.com
+vignesh.srikanth@freshworks.com
+divya.balraj@freshworks.com
+skurudi@qualcomm.com
+muralim@qualcomm.com
+vkatoor@mathworks.com
+jordan.sarasan@mathworks.com
+Keshavk@mathworks.com
+fjose@paypal.com

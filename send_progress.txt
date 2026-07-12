@@ -1,8 +1,8 @@
-2026-07-11 13:19:23 | felwin.rodrigues@cohesity.com | Felwin Rodrigues | Cohesity India
-2026-07-11 13:19:34 | aboyalla@paloaltonetworks.com | Alekhya Boyalla | Palo Alto Networks India
-2026-07-11 13:19:45 | sdasan@paloaltonetworks.com | Smitha Dasan | Palo Alto Networks India
-2026-07-11 13:19:56 | krishna.kishore@postman.com | Krishna Kishore | Postman India
-2026-07-11 13:20:07 | sonal.alva@postman.com | Sonal Alva K | Postman India
-2026-07-11 13:20:18 | monika.gunalan@postman.com | Monika Gunalan | Postman India
-2026-07-11 13:20:29 | rahul.p@browserstack.com | Rahul Pande | BrowserStack India
-2026-07-11 13:20:40 | snehil.s@browserstack.com | Snehil Singh | BrowserStack India
+2026-07-12 06:25:09 | vignesh.srikanth@freshworks.com | Vignesh Srikanth | Freshworks India
+2026-07-12 06:25:21 | divya.balraj@freshworks.com | Divya Balraj | Freshworks India
+2026-07-12 06:25:32 | skurudi@qualcomm.com | Shikha Kurudi | Qualcomm India
+2026-07-12 06:25:44 | muralim@qualcomm.com | Murali | Qualcomm India
+2026-07-12 06:25:56 | vkatoor@mathworks.com | Vishnu Katoor | Mathworks India
+2026-07-12 06:26:07 | jordan.sarasan@mathworks.com | Jordan Sarasan | Mathworks India
+2026-07-12 06:26:18 | Keshavk@mathworks.com | Keshav K | Mathworks India
+2026-07-12 06:26:30 | fjose@paypal.com | Frijo Jose | PayPal India
