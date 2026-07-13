@@ -1,8 +1,8 @@
-2026-07-13 06:43:32 | sonia.vijay@walmartlabs.com | Sonia Vijay | Walmart Global Tech India
-2026-07-13 06:43:43 | campusrelations@walmart.com | Campus Relations | Walmart Global Tech India
-2026-07-13 06:43:54 | amit.sahu2@target.com | Amit Sahu | Target India
-2026-07-13 06:44:05 | majo.george@target.com | Majo George | Target India
-2026-07-13 06:44:16 | arun.kulkarni@target.com | Arun Kulkarni | Target India
-2026-07-13 06:44:27 | raunak.chaudhary@gs.com | Raunak Chaudhary | Goldman Sachs India
-2026-07-13 06:44:38 | mehar.lally@gs.com | Mehar Lally | Goldman Sachs India
-2026-07-13 06:44:50 | pilith.pericho@goldmansachs.com | Pilith Pericho | Goldman Sachs India
+2026-07-13 14:34:10 | manisha.shah@morganstanley.com | Manisha Shah | Morgan Stanley India
+2026-07-13 14:34:21 | sonam@morganstanley.com | Sonam Chopra | Morgan Stanley India
+2026-07-13 14:34:32 | Madhura.Girkar@morganstanley.com | Madhura Girkar | Morgan Stanley India
+2026-07-13 14:34:43 | reagan.a.a@jpmchase.com | Reagan Alphonso | J.P. Morgan India
+2026-07-13 14:34:54 | ruben.r@jpmorgan.com | Ruben Rajamanickam | J.P. Morgan India
+2026-07-13 14:35:05 | shradha.todkar@jpmorgan.com | Shradha Todkar | J.P. Morgan India
+2026-07-13 14:35:16 | priyanka.jobanputra@db.com | Priyanka Jobanputra | Deutsche Bank India
+2026-07-13 14:35:27 | akhil.ramesh@db.com | Akhil Ramesh | Deutsche Bank India
