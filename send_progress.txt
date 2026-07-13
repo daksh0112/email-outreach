@@ -1,8 +1,8 @@
-2026-07-12 13:19:22 | prinayak@paypal.com | Priyanka | PayPal India
-2026-07-12 13:19:33 | asarma@paypal.com | Arun P Sarma | PayPal India
-2026-07-12 13:19:44 | sathish.mg@visa.com | Sathish M | Visa India
-2026-07-12 13:19:56 | snanjundaiah@visa.com | Shilpa Nanjundaiah | Visa India
-2026-07-12 13:20:07 | hes@nvidia.com | Hemachander Santhanam | Nvidia India
-2026-07-12 13:20:18 | daniel@nvidia.com | Jimcy Daniel | Nvidia India
-2026-07-12 13:20:30 | spiparsania@stripe.com | Sonal Piparsania | Stripe India
-2026-07-12 13:20:41 | aishwarya.dhakate@walmart.com | Aishwarya Dhakate | Walmart Global Tech India
+2026-07-13 06:43:32 | sonia.vijay@walmartlabs.com | Sonia Vijay | Walmart Global Tech India
+2026-07-13 06:43:43 | campusrelations@walmart.com | Campus Relations | Walmart Global Tech India
+2026-07-13 06:43:54 | amit.sahu2@target.com | Amit Sahu | Target India
+2026-07-13 06:44:05 | majo.george@target.com | Majo George | Target India
+2026-07-13 06:44:16 | arun.kulkarni@target.com | Arun Kulkarni | Target India
+2026-07-13 06:44:27 | raunak.chaudhary@gs.com | Raunak Chaudhary | Goldman Sachs India
+2026-07-13 06:44:38 | mehar.lally@gs.com | Mehar Lally | Goldman Sachs India
+2026-07-13 06:44:50 | pilith.pericho@goldmansachs.com | Pilith Pericho | Goldman Sachs India
