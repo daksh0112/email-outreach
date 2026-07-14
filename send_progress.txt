@@ -1,8 +1,8 @@
-2026-07-14 06:02:52 | charu.malik@db.com | Charu Malik | Deutsche Bank India
-2026-07-14 06:03:03 | Neha.Kalra1@aexp.com | Neha Kalra | American Express India
-2026-07-14 06:03:14 | Charvi.Kapur1@aexp.com | Charvi Kapur | American Express India
-2026-07-14 06:03:25 | Tanya.Malik@aexp.com | Tanya Malik | American Express India
-2026-07-14 06:03:36 | Sumit.Joshi@deshaw.com | Sumit Joshi | DE Shaw India
-2026-07-14 06:03:47 | gurung@deshaw.com | Karan Gurung | DE Shaw India
-2026-07-14 06:03:58 | nbhat@tower-research.com | Neha Bhat | Tower Research Capital
-2026-07-14 06:04:09 | nishitha.kuriyas@razorpay.com | Nishitha Kuriyas | Razorpay India
+2026-07-14 13:43:33 | sumit.premi@razorpay.com | Sumit Premi | Razorpay India
+2026-07-14 13:43:46 | venkatesh.v@phonepe.com | Venkatesh Vemulamada | PhonePe India
+2026-07-14 13:43:57 | mansing.thoravde@phonepe.com | Mansing Thoravde | PhonePe India
+2026-07-14 13:44:08 | chandrika.s@phonepe.com | Chandrika T S | PhonePe India
+2026-07-14 13:44:19 | abhijeet.shankhdhar@juspay.in | Abhijeet Shankhdhar | Juspay India
+2026-07-14 13:44:30 | parul.shriwatri@juspay.in | Parul Shriwatri | Juspay India
+2026-07-14 13:44:41 | anshika.singh@juspay.in | Anshika Singh | Juspay India
+2026-07-14 13:44:52 | ganesh.krishnan@zeptonow.com | Ganesh Krishnan | Zepto India
