@@ -1,8 +1,8 @@
-2026-07-13 14:34:10 | manisha.shah@morganstanley.com | Manisha Shah | Morgan Stanley India
-2026-07-13 14:34:21 | sonam@morganstanley.com | Sonam Chopra | Morgan Stanley India
-2026-07-13 14:34:32 | Madhura.Girkar@morganstanley.com | Madhura Girkar | Morgan Stanley India
-2026-07-13 14:34:43 | reagan.a.a@jpmchase.com | Reagan Alphonso | J.P. Morgan India
-2026-07-13 14:34:54 | ruben.r@jpmorgan.com | Ruben Rajamanickam | J.P. Morgan India
-2026-07-13 14:35:05 | shradha.todkar@jpmorgan.com | Shradha Todkar | J.P. Morgan India
-2026-07-13 14:35:16 | priyanka.jobanputra@db.com | Priyanka Jobanputra | Deutsche Bank India
-2026-07-13 14:35:27 | akhil.ramesh@db.com | Akhil Ramesh | Deutsche Bank India
+2026-07-14 06:02:52 | charu.malik@db.com | Charu Malik | Deutsche Bank India
+2026-07-14 06:03:03 | Neha.Kalra1@aexp.com | Neha Kalra | American Express India
+2026-07-14 06:03:14 | Charvi.Kapur1@aexp.com | Charvi Kapur | American Express India
+2026-07-14 06:03:25 | Tanya.Malik@aexp.com | Tanya Malik | American Express India
+2026-07-14 06:03:36 | Sumit.Joshi@deshaw.com | Sumit Joshi | DE Shaw India
+2026-07-14 06:03:47 | gurung@deshaw.com | Karan Gurung | DE Shaw India
+2026-07-14 06:03:58 | nbhat@tower-research.com | Neha Bhat | Tower Research Capital
+2026-07-14 06:04:09 | nishitha.kuriyas@razorpay.com | Nishitha Kuriyas | Razorpay India
