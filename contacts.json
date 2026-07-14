@@ -1,1626 +1,1360 @@
 [
     {
-        "email":  "rahulnarang@google.com",
-        "name":  "Rahul Narang",
-        "first_name":  "Rahul",
-        "last_name":  "Narang",
-        "company":  "Google India"
+        "email": "rahulnarang@google.com",
+        "name": "Rahul Narang",
+        "first_name": "Rahul",
+        "last_name": "Narang",
+        "company": "Google India"
     },
     {
-        "email":  "aminaarifulla@google.com",
-        "name":  "Amina Tanwar",
-        "first_name":  "Amina",
-        "last_name":  "Tanwar",
-        "company":  "Google India"
+        "email": "aminaarifulla@google.com",
+        "name": "Amina Tanwar",
+        "first_name": "Amina",
+        "last_name": "Tanwar",
+        "company": "Google India"
     },
     {
-        "email":  "universityrelations-in@google.com",
-        "name":  "University Relations",
-        "first_name":  "University",
-        "last_name":  "Relations",
-        "company":  "Google India"
+        "email": "universityrelations-in@google.com",
+        "name": "University Relations",
+        "first_name": "University",
+        "last_name": "Relations",
+        "company": "Google India"
     },
     {
-        "email":  "rahr@microsoft.com",
-        "name":  "Ramya H R",
-        "first_name":  "Ramya",
-        "last_name":  "H R",
-        "company":  "Microsoft India"
+        "email": "rahr@microsoft.com",
+        "name": "Ramya H R",
+        "first_name": "Ramya",
+        "last_name": "H R",
+        "company": "Microsoft India"
     },
     {
-        "email":  "sharon.joseph@microsoft.com",
-        "name":  "Sharon Joseph",
-        "first_name":  "Sharon",
-        "last_name":  "Joseph",
-        "company":  "Microsoft India"
+        "email": "Sonia.Chawla@microsoft.com",
+        "name": "Sonia Chawla",
+        "first_name": "Sonia",
+        "last_name": "Chawla",
+        "company": "Microsoft India"
     },
     {
-        "email":  "Sonia.Chawla@microsoft.com",
-        "name":  "Sonia Chawla",
-        "first_name":  "Sonia",
-        "last_name":  "Chawla",
-        "company":  "Microsoft India"
+        "email": "psheetal@amazon.com",
+        "name": "Sheetal Praveenkumar",
+        "first_name": "Sheetal",
+        "last_name": "Praveenkumar",
+        "company": "Amazon India"
     },
     {
-        "email":  "psheetal@amazon.com",
-        "name":  "Sheetal Praveenkumar",
-        "first_name":  "Sheetal",
-        "last_name":  "Praveenkumar",
-        "company":  "Amazon India"
+        "email": "kapadiab@amazon.com",
+        "name": "Bhagyashree Kapadia",
+        "first_name": "Bhagyashree",
+        "last_name": "Kapadia",
+        "company": "Amazon India"
     },
     {
-        "email":  "kapadiab@amazon.com",
-        "name":  "Bhagyashree Kapadia",
-        "first_name":  "Bhagyashree",
-        "last_name":  "Kapadia",
-        "company":  "Amazon India"
+        "email": "samtac@amazon.com",
+        "name": "Samta Chopra",
+        "first_name": "Samta",
+        "last_name": "Chopra",
+        "company": "Amazon India"
     },
     {
-        "email":  "samtac@amazon.com",
-        "name":  "Samta Chopra",
-        "first_name":  "Samta",
-        "last_name":  "Chopra",
-        "company":  "Amazon India"
+        "email": "heenamehta@fb.com",
+        "name": "Heena Mehta",
+        "first_name": "Heena",
+        "last_name": "Mehta",
+        "company": "Meta / Facebook India"
     },
     {
-        "email":  "heenamehta@fb.com",
-        "name":  "Heena Mehta",
-        "first_name":  "Heena",
-        "last_name":  "Mehta",
-        "company":  "Meta / Facebook India"
+        "email": "ritika.mathur@fb.com",
+        "name": "Ritika Mathur",
+        "first_name": "Ritika",
+        "last_name": "Mathur",
+        "company": "Meta / Facebook India"
     },
     {
-        "email":  "ritika.mathur@fb.com",
-        "name":  "Ritika Mathur",
-        "first_name":  "Ritika",
-        "last_name":  "Mathur",
-        "company":  "Meta / Facebook India"
+        "email": "divina_bajpai@apple.com",
+        "name": "Divina Bajpai",
+        "first_name": "Divina",
+        "last_name": "Bajpai",
+        "company": "Apple India"
     },
     {
-        "email":  "divina_bajpai@apple.com",
-        "name":  "Divina Bajpai",
-        "first_name":  "Divina",
-        "last_name":  "Bajpai",
-        "company":  "Apple India"
+        "email": "renu.sevanthi@apple.com",
+        "name": "Renu Sevanthi",
+        "first_name": "Renu",
+        "last_name": "Sevanthi",
+        "company": "Apple India"
     },
     {
-        "email":  "renu.sevanthi@apple.com",
-        "name":  "Renu Sevanthi",
-        "first_name":  "Renu",
-        "last_name":  "Sevanthi",
-        "company":  "Apple India"
+        "email": "tpawar@atlassian.com",
+        "name": "Tanushree Pawar",
+        "first_name": "Tanushree",
+        "last_name": "Pawar",
+        "company": "Atlassian India"
     },
     {
-        "email":  "kchakravarthy@atlassian.com",
-        "name":  "Kavita Chakravarthy",
-        "first_name":  "Kavita",
-        "last_name":  "Chakravarthy",
-        "company":  "Atlassian India"
+        "email": "girdhar@adobe.com",
+        "name": "Himanshi Girdhar",
+        "first_name": "Himanshi",
+        "last_name": "Girdhar",
+        "company": "Adobe India"
     },
     {
-        "email":  "njoy@atlassian.com",
-        "name":  "Neethu Joy",
-        "first_name":  "Neethu",
-        "last_name":  "Joy",
-        "company":  "Atlassian India"
+        "email": "jraju@adobe.com",
+        "name": "Jerin Raju",
+        "first_name": "Jerin",
+        "last_name": "Raju",
+        "company": "Adobe India"
     },
     {
-        "email":  "tpawar@atlassian.com",
-        "name":  "Tanushree Pawar",
-        "first_name":  "Tanushree",
-        "last_name":  "Pawar",
-        "company":  "Atlassian India"
+        "email": "skalra@adobe.com",
+        "name": "Swati Kalra",
+        "first_name": "Swati",
+        "last_name": "Kalra",
+        "company": "Adobe India"
     },
     {
-        "email":  "girdhar@adobe.com",
-        "name":  "Himanshi Girdhar",
-        "first_name":  "Himanshi",
-        "last_name":  "Girdhar",
-        "company":  "Adobe India"
+        "email": "kamal.stephen@sap.com",
+        "name": "Kamal Stephen",
+        "first_name": "Kamal",
+        "last_name": "Stephen",
+        "company": "SAP Labs India"
     },
     {
-        "email":  "jraju@adobe.com",
-        "name":  "Jerin Raju",
-        "first_name":  "Jerin",
-        "last_name":  "Raju",
-        "company":  "Adobe India"
+        "email": "anshita.khandelwal@sap.com",
+        "name": "Anshita Khandelwal",
+        "first_name": "Anshita",
+        "last_name": "Khandelwal",
+        "company": "SAP Labs India"
     },
     {
-        "email":  "skalra@adobe.com",
-        "name":  "Swati Kalra",
-        "first_name":  "Swati",
-        "last_name":  "Kalra",
-        "company":  "Adobe India"
+        "email": "dmanthri@salesforce.com",
+        "name": "Daniel J. Manthri",
+        "first_name": "Daniel",
+        "last_name": "J. Manthri",
+        "company": "Salesforce India"
     },
     {
-        "email":  "anil.agrawal@oracle.com",
-        "name":  "Anil Agrawal",
-        "first_name":  "Anil",
-        "last_name":  "Agrawal",
-        "company":  "Oracle India"
+        "email": "esonchhatra@salesforce.com",
+        "name": "Ektaa Sonchhatra",
+        "first_name": "Ektaa",
+        "last_name": "Sonchhatra",
+        "company": "Salesforce India"
     },
     {
-        "email":  "priya.venkataraman@oracle.com",
-        "name":  "Priya Venkataraman",
-        "first_name":  "Priya",
-        "last_name":  "Venkataraman",
-        "company":  "Oracle India"
+        "email": "pbaruah@salesforce.com",
+        "name": "Pallabi Baruah",
+        "first_name": "Pallabi",
+        "last_name": "Baruah",
+        "company": "Salesforce India"
     },
     {
-        "email":  "jaspreet.walia@oracle.com",
-        "name":  "Jaspreet Walia",
-        "first_name":  "Jaspreet",
-        "last_name":  "Walia",
-        "company":  "Oracle India"
+        "email": "achipkar@linkedin.com",
+        "name": "Abhilash Chipkar",
+        "first_name": "Abhilash",
+        "last_name": "Chipkar",
+        "company": "LinkedIn India (Microsoft)"
     },
     {
-        "email":  "kamal.stephen@sap.com",
-        "name":  "Kamal Stephen",
-        "first_name":  "Kamal",
-        "last_name":  "Stephen",
-        "company":  "SAP Labs India"
+        "email": "kartheek.peyyeti@uber.com",
+        "name": "Kartheek Peyyeti",
+        "first_name": "Kartheek",
+        "last_name": "Peyyeti",
+        "company": "Uber India"
     },
     {
-        "email":  "suvarna.kartha@sap.com",
-        "name":  "Suvarna Kartha",
-        "first_name":  "Suvarna",
-        "last_name":  "Kartha",
-        "company":  "SAP Labs India"
+        "email": "skatiyar@cisco.com",
+        "name": "Samta Katiyar",
+        "first_name": "Samta",
+        "last_name": "Katiyar",
+        "company": "Cisco India"
     },
     {
-        "email":  "anshita.khandelwal@sap.com",
-        "name":  "Anshita Khandelwal",
-        "first_name":  "Anshita",
-        "last_name":  "Khandelwal",
-        "company":  "SAP Labs India"
+        "email": "nitferna@cisco.com",
+        "name": "Nita Fernandes",
+        "first_name": "Nita",
+        "last_name": "Fernandes",
+        "company": "Cisco India"
     },
     {
-        "email":  "dmanthri@salesforce.com",
-        "name":  "Daniel J. Manthri",
-        "first_name":  "Daniel",
-        "last_name":  "J. Manthri",
-        "company":  "Salesforce India"
+        "email": "kamlesh.jagdale@nutanix.com",
+        "name": "Kamlesh Jagdale",
+        "first_name": "Kamlesh",
+        "last_name": "Jagdale",
+        "company": "Nutanix India"
     },
     {
-        "email":  "esonchhatra@salesforce.com",
-        "name":  "Ektaa Sonchhatra",
-        "first_name":  "Ektaa",
-        "last_name":  "Sonchhatra",
-        "company":  "Salesforce India"
+        "email": "sindhuja.p@nutanix.com",
+        "name": "Sindhuja Pandian",
+        "first_name": "Sindhuja",
+        "last_name": "Pandian",
+        "company": "Nutanix India"
     },
     {
-        "email":  "pbaruah@salesforce.com",
-        "name":  "Pallabi Baruah",
-        "first_name":  "Pallabi",
-        "last_name":  "Baruah",
-        "company":  "Salesforce India"
+        "email": "sdasan@paloaltonetworks.com",
+        "name": "Smitha Dasan",
+        "first_name": "Smitha",
+        "last_name": "Dasan",
+        "company": "Palo Alto Networks India"
     },
     {
-        "email":  "dipika_saha@intuit.com",
-        "name":  "Dipika Saha",
-        "first_name":  "Dipika",
-        "last_name":  "Saha",
-        "company":  "Intuit India"
+        "email": "monika.gunalan@postman.com",
+        "name": "Monika Gunalan",
+        "first_name": "Monika",
+        "last_name": "Gunalan",
+        "company": "Postman India"
     },
     {
-        "email":  "soumya_sulegai@intuit.com",
-        "name":  "Somya Sulegai",
-        "first_name":  "Somya",
-        "last_name":  "Sulegai",
-        "company":  "Intuit India"
+        "email": "vignesh.srikanth@freshworks.com",
+        "name": "Vignesh Srikanth",
+        "first_name": "Vignesh",
+        "last_name": "Srikanth",
+        "company": "Freshworks India"
     },
     {
-        "email":  "ramesh.mudigiri@servicenow.com",
-        "name":  "Ramesh Mudigiri",
-        "first_name":  "Ramesh",
-        "last_name":  "Mudigiri",
-        "company":  "ServiceNow India"
+        "email": "divya.balraj@freshworks.com",
+        "name": "Divya Balraj",
+        "first_name": "Divya",
+        "last_name": "Balraj",
+        "company": "Freshworks India"
     },
     {
-        "email":  "ram.neelam@servicenow.com",
-        "name":  "Ram Neelam",
-        "first_name":  "Ram",
-        "last_name":  "Neelam",
-        "company":  "ServiceNow India"
+        "email": "skurudi@qualcomm.com",
+        "name": "Shikha Kurudi",
+        "first_name": "Shikha",
+        "last_name": "Kurudi",
+        "company": "Qualcomm India"
     },
     {
-        "email":  "achipkar@linkedin.com",
-        "name":  "Abhilash Chipkar",
-        "first_name":  "Abhilash",
-        "last_name":  "Chipkar",
-        "company":  "LinkedIn India (Microsoft)"
+        "email": "muralim@qualcomm.com",
+        "name": "Murali",
+        "first_name": "Murali",
+        "last_name": "",
+        "company": "Qualcomm India"
     },
     {
-        "email":  "ashrao@linkedin.com",
-        "name":  "Ashirwad Anil Rao",
-        "first_name":  "Ashirwad",
-        "last_name":  "Anil Rao",
-        "company":  "LinkedIn India (Microsoft)"
+        "email": "vkatoor@mathworks.com",
+        "name": "Vishnu Katoor",
+        "first_name": "Vishnu",
+        "last_name": "Katoor",
+        "company": "Mathworks India"
     },
     {
-        "email":  "kartheek.peyyeti@uber.com",
-        "name":  "Kartheek Peyyeti",
-        "first_name":  "Kartheek",
-        "last_name":  "Peyyeti",
-        "company":  "Uber India"
+        "email": "jordan.sarasan@mathworks.com",
+        "name": "Jordan Sarasan",
+        "first_name": "Jordan",
+        "last_name": "Sarasan",
+        "company": "Mathworks India"
     },
     {
-        "email":  "rajendra@uber.com",
-        "name":  "Rajendra Prasad",
-        "first_name":  "Rajendra",
-        "last_name":  "Prasad",
-        "company":  "Uber India"
+        "email": "Keshavk@mathworks.com",
+        "name": "Keshav K",
+        "first_name": "Keshav",
+        "last_name": "K",
+        "company": "Mathworks India"
     },
     {
-        "email":  "poonamg@netflix.com",
-        "name":  "Poonam Gupta",
-        "first_name":  "Poonam",
-        "last_name":  "Gupta",
-        "company":  "Netflix India"
+        "email": "fjose@paypal.com",
+        "name": "Frijo Jose",
+        "first_name": "Frijo",
+        "last_name": "Jose",
+        "company": "PayPal India"
     },
     {
-        "email":  "kamalikag@vmware.com",
-        "name":  "Kamalika Ghosh",
-        "first_name":  "Kamalika",
-        "last_name":  "Ghosh",
-        "company":  "VMware India (Broadcom)"
+        "email": "prinayak@paypal.com",
+        "name": "Priyanka",
+        "first_name": "Priyanka",
+        "last_name": "",
+        "company": "PayPal India"
     },
     {
-        "email":  "ddevassy@vmware.com",
-        "name":  "Divya Devassy",
-        "first_name":  "Divya",
-        "last_name":  "Devassy",
-        "company":  "VMware India (Broadcom)"
+        "email": "asarma@paypal.com",
+        "name": "Arun P Sarma",
+        "first_name": "Arun",
+        "last_name": "P Sarma",
+        "company": "PayPal India"
     },
     {
-        "email":  "nkhoja@vmware.com",
-        "name":  "Nikhat Khoja",
-        "first_name":  "Nikhat",
-        "last_name":  "Khoja",
-        "company":  "VMware India (Broadcom)"
+        "email": "sathish.mg@visa.com",
+        "name": "Sathish M",
+        "first_name": "Sathish",
+        "last_name": "M",
+        "company": "Visa India"
     },
     {
-        "email":  "skatiyar@cisco.com",
-        "name":  "Samta Katiyar",
-        "first_name":  "Samta",
-        "last_name":  "Katiyar",
-        "company":  "Cisco India"
+        "email": "snanjundaiah@visa.com",
+        "name": "Shilpa Nanjundaiah",
+        "first_name": "Shilpa",
+        "last_name": "Nanjundaiah",
+        "company": "Visa India"
     },
     {
-        "email":  "nitferna@cisco.com",
-        "name":  "Nita Fernandes",
-        "first_name":  "Nita",
-        "last_name":  "Fernandes",
-        "company":  "Cisco India"
+        "email": "hes@nvidia.com",
+        "name": "Hemachander Santhanam",
+        "first_name": "Hemachander",
+        "last_name": "Santhanam",
+        "company": "Nvidia India"
     },
     {
-        "email":  "kamlesh.jagdale@nutanix.com",
-        "name":  "Kamlesh Jagdale",
-        "first_name":  "Kamlesh",
-        "last_name":  "Jagdale",
-        "company":  "Nutanix India"
+        "email": "spiparsania@stripe.com",
+        "name": "Sonal Piparsania",
+        "first_name": "Sonal",
+        "last_name": "Piparsania",
+        "company": "Stripe India"
     },
     {
-        "email":  "sindhuja.p@nutanix.com",
-        "name":  "Sindhuja Pandian",
-        "first_name":  "Sindhuja",
-        "last_name":  "Pandian",
-        "company":  "Nutanix India"
+        "email": "aishwarya.dhakate@walmart.com",
+        "name": "Aishwarya Dhakate",
+        "first_name": "Aishwarya",
+        "last_name": "Dhakate",
+        "company": "Walmart Global Tech India"
     },
     {
-        "email":  "balaji.sundaravadivel@rubrik.com",
-        "name":  "Balaji Sundaravadivel",
-        "first_name":  "Balaji",
-        "last_name":  "Sundaravadivel",
-        "company":  "Rubrik India"
+        "email": "sonia.vijay@walmartlabs.com",
+        "name": "Sonia Vijay",
+        "first_name": "Sonia",
+        "last_name": "Vijay",
+        "company": "Walmart Global Tech India"
     },
     {
-        "email":  "hari.jeta@rubrik.com",
-        "name":  "Hari Prasad Jeta",
-        "first_name":  "Hari",
-        "last_name":  "Prasad Jeta",
-        "company":  "Rubrik India"
+        "email": "campusrelations@walmart.com",
+        "name": "Campus Relations",
+        "first_name": "Campus",
+        "last_name": "Relations",
+        "company": "Walmart Global Tech India"
     },
     {
-        "email":  "shreyas.katkar@cohesity.com",
-        "name":  "Shreyas Katkar",
-        "first_name":  "Shreyas",
-        "last_name":  "Katkar",
-        "company":  "Cohesity India"
+        "email": "amit.sahu2@target.com",
+        "name": "Amit Sahu",
+        "first_name": "Amit",
+        "last_name": "Sahu",
+        "company": "Target India"
     },
     {
-        "email":  "kavitha.ts@cohesity.com",
-        "name":  "Kavitha TS",
-        "first_name":  "Kavitha",
-        "last_name":  "TS",
-        "company":  "Cohesity India"
+        "email": "majo.george@target.com",
+        "name": "Majo George",
+        "first_name": "Majo",
+        "last_name": "George",
+        "company": "Target India"
     },
     {
-        "email":  "felwin.rodrigues@cohesity.com",
-        "name":  "Felwin Rodrigues",
-        "first_name":  "Felwin",
-        "last_name":  "Rodrigues",
-        "company":  "Cohesity India"
+        "email": "arun.kulkarni@target.com",
+        "name": "Arun Kulkarni",
+        "first_name": "Arun",
+        "last_name": "Kulkarni",
+        "company": "Target India"
     },
     {
-        "email":  "aboyalla@paloaltonetworks.com",
-        "name":  "Alekhya Boyalla",
-        "first_name":  "Alekhya",
-        "last_name":  "Boyalla",
-        "company":  "Palo Alto Networks India"
+        "email": "shradha.todkar@jpmorgan.com",
+        "name": "Shradha Todkar",
+        "first_name": "Shradha",
+        "last_name": "Todkar",
+        "company": "J.P. Morgan India"
     },
     {
-        "email":  "sdasan@paloaltonetworks.com",
-        "name":  "Smitha Dasan",
-        "first_name":  "Smitha",
-        "last_name":  "Dasan",
-        "company":  "Palo Alto Networks India"
+        "email": "akhil.ramesh@db.com",
+        "name": "Akhil Ramesh",
+        "first_name": "Akhil",
+        "last_name": "Ramesh",
+        "company": "Deutsche Bank India"
     },
     {
-        "email":  "krishna.kishore@postman.com",
-        "name":  "Krishna Kishore",
-        "first_name":  "Krishna",
-        "last_name":  "Kishore",
-        "company":  "Postman India"
+        "email": "Neha.Kalra1@aexp.com",
+        "name": "Neha Kalra",
+        "first_name": "Neha",
+        "last_name": "Kalra",
+        "company": "American Express India"
     },
     {
-        "email":  "sonal.alva@postman.com",
-        "name":  "Sonal Alva K",
-        "first_name":  "Sonal",
-        "last_name":  "Alva K",
-        "company":  "Postman India"
+        "email": "Charvi.Kapur1@aexp.com",
+        "name": "Charvi Kapur",
+        "first_name": "Charvi",
+        "last_name": "Kapur",
+        "company": "American Express India"
     },
     {
-        "email":  "monika.gunalan@postman.com",
-        "name":  "Monika Gunalan",
-        "first_name":  "Monika",
-        "last_name":  "Gunalan",
-        "company":  "Postman India"
+        "email": "Tanya.Malik@aexp.com",
+        "name": "Tanya Malik",
+        "first_name": "Tanya",
+        "last_name": "Malik",
+        "company": "American Express India"
     },
     {
-        "email":  "rahul.p@browserstack.com",
-        "name":  "Rahul Pande",
-        "first_name":  "Rahul",
-        "last_name":  "Pande",
-        "company":  "BrowserStack India"
+        "email": "Sumit.Joshi@deshaw.com",
+        "name": "Sumit Joshi",
+        "first_name": "Sumit",
+        "last_name": "Joshi",
+        "company": "DE Shaw India"
     },
     {
-        "email":  "snehil.s@browserstack.com",
-        "name":  "Snehil Singh",
-        "first_name":  "Snehil",
-        "last_name":  "Singh",
-        "company":  "BrowserStack India"
+        "email": "gurung@deshaw.com",
+        "name": "Karan Gurung",
+        "first_name": "Karan",
+        "last_name": "Gurung",
+        "company": "DE Shaw India"
     },
     {
-        "email":  "vignesh.srikanth@freshworks.com",
-        "name":  "Vignesh Srikanth",
-        "first_name":  "Vignesh",
-        "last_name":  "Srikanth",
-        "company":  "Freshworks India"
+        "email": "nishitha.kuriyas@razorpay.com",
+        "name": "Nishitha Kuriyas",
+        "first_name": "Nishitha",
+        "last_name": "Kuriyas",
+        "company": "Razorpay India"
     },
     {
-        "email":  "divya.balraj@freshworks.com",
-        "name":  "Divya Balraj",
-        "first_name":  "Divya",
-        "last_name":  "Balraj",
-        "company":  "Freshworks India"
+        "email": "sumit.premi@razorpay.com",
+        "name": "Sumit Premi",
+        "first_name": "Sumit",
+        "last_name": "Premi",
+        "company": "Razorpay India"
     },
     {
-        "email":  "skurudi@qualcomm.com",
-        "name":  "Shikha Kurudi",
-        "first_name":  "Shikha",
-        "last_name":  "Kurudi",
-        "company":  "Qualcomm India"
+        "email": "venkatesh.v@phonepe.com",
+        "name": "Venkatesh Vemulamada",
+        "first_name": "Venkatesh",
+        "last_name": "Vemulamada",
+        "company": "PhonePe India"
     },
     {
-        "email":  "muralim@qualcomm.com",
-        "name":  "Murali",
-        "first_name":  "Murali",
-        "last_name":  "",
-        "company":  "Qualcomm India"
+        "email": "abhijeet.shankhdhar@juspay.in",
+        "name": "Abhijeet Shankhdhar",
+        "first_name": "Abhijeet",
+        "last_name": "Shankhdhar",
+        "company": "Juspay India"
     },
     {
-        "email":  "vkatoor@mathworks.com",
-        "name":  "Vishnu Katoor",
-        "first_name":  "Vishnu",
-        "last_name":  "Katoor",
-        "company":  "Mathworks India"
+        "email": "parul.shriwatri@juspay.in",
+        "name": "Parul Shriwatri",
+        "first_name": "Parul",
+        "last_name": "Shriwatri",
+        "company": "Juspay India"
     },
     {
-        "email":  "jordan.sarasan@mathworks.com",
-        "name":  "Jordan Sarasan",
-        "first_name":  "Jordan",
-        "last_name":  "Sarasan",
-        "company":  "Mathworks India"
+        "email": "gunjan.chandak@zeptonow.com",
+        "name": "Gunjan Chandak",
+        "first_name": "Gunjan",
+        "last_name": "Chandak",
+        "company": "Zepto India"
     },
     {
-        "email":  "Keshavk@mathworks.com",
-        "name":  "Keshav K",
-        "first_name":  "Keshav",
-        "last_name":  "K",
-        "company":  "Mathworks India"
+        "email": "roma.bindroo@zeptonow.com",
+        "name": "Roma Bindroo",
+        "first_name": "Roma",
+        "last_name": "Bindroo",
+        "company": "Zepto India"
     },
     {
-        "email":  "fjose@paypal.com",
-        "name":  "Frijo Jose",
-        "first_name":  "Frijo",
-        "last_name":  "Jose",
-        "company":  "PayPal India"
+        "email": "krittika.ghosh@groww.in",
+        "name": "Krittika Ghosh",
+        "first_name": "Krittika",
+        "last_name": "Ghosh",
+        "company": "Groww India"
     },
     {
-        "email":  "prinayak@paypal.com",
-        "name":  "Priyanka",
-        "first_name":  "Priyanka",
-        "last_name":  "",
-        "company":  "PayPal India"
+        "email": "vaishali.jamwal@groww.in",
+        "name": "Vaishali Jamwal",
+        "first_name": "Vaishali",
+        "last_name": "Jamwal",
+        "company": "Groww India"
     },
     {
-        "email":  "asarma@paypal.com",
-        "name":  "Arun P Sarma",
-        "first_name":  "Arun",
-        "last_name":  "P Sarma",
-        "company":  "PayPal India"
+        "email": "saumya.choudhary@groww.in",
+        "name": "Saumya Choudhary",
+        "first_name": "Saumya",
+        "last_name": "Choudhary",
+        "company": "Groww India"
     },
     {
-        "email":  "sathish.mg@visa.com",
-        "name":  "Sathish M",
-        "first_name":  "Sathish",
-        "last_name":  "M",
-        "company":  "Visa India"
+        "email": "varun@cred.club",
+        "name": "Varun Hemaraj",
+        "first_name": "Varun",
+        "last_name": "Hemaraj",
+        "company": "CRED India"
     },
     {
-        "email":  "snanjundaiah@visa.com",
-        "name":  "Shilpa Nanjundaiah",
-        "first_name":  "Shilpa",
-        "last_name":  "Nanjundaiah",
-        "company":  "Visa India"
+        "email": "lekshmi.g@cred.club",
+        "name": "Lekshmi G",
+        "first_name": "Lekshmi",
+        "last_name": "G",
+        "company": "CRED India"
     },
     {
-        "email":  "hes@nvidia.com",
-        "name":  "Hemachander Santhanam",
-        "first_name":  "Hemachander",
-        "last_name":  "Santhanam",
-        "company":  "Nvidia India"
+        "email": "piyusha.pancharia@cred.club",
+        "name": "Piyusha Pancharia",
+        "first_name": "Piyusha",
+        "last_name": "Pancharia",
+        "company": "CRED India"
     },
     {
-        "email":  "daniel@nvidia.com",
-        "name":  "Jimcy Daniel",
-        "first_name":  "Jimcy",
-        "last_name":  "Daniel",
-        "company":  "Nvidia India"
+        "email": "durgap@chargebee.com",
+        "name": "Durgap Prasad",
+        "first_name": "Durgap",
+        "last_name": "Prasad",
+        "company": "Chargebee India"
     },
     {
-        "email":  "spiparsania@stripe.com",
-        "name":  "Sonal Piparsania",
-        "first_name":  "Sonal",
-        "last_name":  "Piparsania",
-        "company":  "Stripe India"
+        "email": "vineeta.v@chargebee.com",
+        "name": "Vineeta Vishwanath",
+        "first_name": "Vineeta",
+        "last_name": "Vishwanath",
+        "company": "Chargebee India"
     },
     {
-        "email":  "aishwarya.dhakate@walmart.com",
-        "name":  "Aishwarya Dhakate",
-        "first_name":  "Aishwarya",
-        "last_name":  "Dhakate",
-        "company":  "Walmart Global Tech India"
+        "email": "sarmita.mukherjee@chargebee.com",
+        "name": "Sarmita Mukherjee",
+        "first_name": "Sarmita",
+        "last_name": "Mukherjee",
+        "company": "Chargebee India"
     },
     {
-        "email":  "sonia.vijay@walmartlabs.com",
-        "name":  "Sonia Vijay",
-        "first_name":  "Sonia",
-        "last_name":  "Vijay",
-        "company":  "Walmart Global Tech India"
+        "email": "shinjini.ghosh@hevodata.com",
+        "name": "Shinjini Ghosh",
+        "first_name": "Shinjini",
+        "last_name": "Ghosh",
+        "company": "Hevo Data India"
     },
     {
-        "email":  "campusrelations@walmart.com",
-        "name":  "Campus Relations",
-        "first_name":  "Campus",
-        "last_name":  "Relations",
-        "company":  "Walmart Global Tech India"
+        "email": "sarah.jacob@hevodata.com",
+        "name": "Sarah Jacob",
+        "first_name": "Sarah",
+        "last_name": "Jacob",
+        "company": "Hevo Data India"
     },
     {
-        "email":  "amit.sahu2@target.com",
-        "name":  "Amit Sahu",
-        "first_name":  "Amit",
-        "last_name":  "Sahu",
-        "company":  "Target India"
+        "email": "ashna.thakur@hevodata.com",
+        "name": "Ashna Thakur",
+        "first_name": "Ashna",
+        "last_name": "Thakur",
+        "company": "Hevo Data India"
     },
     {
-        "email":  "majo.george@target.com",
-        "name":  "Majo George",
-        "first_name":  "Majo",
-        "last_name":  "George",
-        "company":  "Target India"
+        "email": "shamsul.arfeen@innovaccer.com",
+        "name": "Shamsul Arfeen",
+        "first_name": "Shamsul",
+        "last_name": "Arfeen",
+        "company": "Innovaccer India"
     },
     {
-        "email":  "arun.kulkarni@target.com",
-        "name":  "Arun Kulkarni",
-        "first_name":  "Arun",
-        "last_name":  "Kulkarni",
-        "company":  "Target India"
+        "email": "kiran.upadhyay@innovaccer.com",
+        "name": "Kiran Upadhyay",
+        "first_name": "Kiran",
+        "last_name": "Upadhyay",
+        "company": "Innovaccer India"
     },
     {
-        "email":  "raunak.chaudhary@gs.com",
-        "name":  "Raunak Chaudhary",
-        "first_name":  "Raunak",
-        "last_name":  "Chaudhary",
-        "company":  "Goldman Sachs India"
+        "email": "deep.singh@innovaccer.com",
+        "name": "Deep Prakhar Singh",
+        "first_name": "Deep",
+        "last_name": "Prakhar Singh",
+        "company": "Innovaccer India"
     },
     {
-        "email":  "mehar.lally@gs.com",
-        "name":  "Mehar Lally",
-        "first_name":  "Mehar",
-        "last_name":  "Lally",
-        "company":  "Goldman Sachs India"
+        "email": "jeevan.kurian@upstox.com",
+        "name": "Jeevan Kurian",
+        "first_name": "Jeevan",
+        "last_name": "Kurian",
+        "company": "Upstox India"
     },
     {
-        "email":  "pilith.pericho@goldmansachs.com",
-        "name":  "Pilith Pericho",
-        "first_name":  "Pilith",
-        "last_name":  "Pericho",
-        "company":  "Goldman Sachs India"
+        "email": "shivangisingh@upstox.com",
+        "name": "Shivangi Singh",
+        "first_name": "Shivangi",
+        "last_name": "Singh",
+        "company": "Upstox India"
     },
     {
-        "email":  "ruben.r@jpmorgan.com",
-        "name":  "Ruben Rajamanickam",
-        "first_name":  "Ruben",
-        "last_name":  "Rajamanickam",
-        "company":  "J.P. Morgan India"
+        "email": "kamiya.thakur@rksv.in",
+        "name": "Kamiya Thakur",
+        "first_name": "Kamiya",
+        "last_name": "Thakur",
+        "company": "Upstox India"
     },
     {
-        "email":  "shradha.todkar@jpmorgan.com",
-        "name":  "Shradha Todkar",
-        "first_name":  "Shradha",
-        "last_name":  "Todkar",
-        "company":  "J.P. Morgan India"
+        "email": "ananda.pandey@angelbroking.com",
+        "name": "Ananda Pandey",
+        "first_name": "Ananda",
+        "last_name": "Pandey",
+        "company": "Angel One India"
     },
     {
-        "email":  "akhil.ramesh@db.com",
-        "name":  "Akhil Ramesh",
-        "first_name":  "Akhil",
-        "last_name":  "Ramesh",
-        "company":  "Deutsche Bank India"
+        "email": "naina.gurang@angelbroking.com",
+        "name": "Naina Gurang",
+        "first_name": "Naina",
+        "last_name": "Gurang",
+        "company": "Angel One India"
     },
     {
-        "email":  "charu.malik@db.com",
-        "name":  "Charu Malik",
-        "first_name":  "Charu",
-        "last_name":  "Malik",
-        "company":  "Deutsche Bank India"
+        "email": "ria.kharbanda.ext@bharatpe.com",
+        "name": "Ria Kharbanda",
+        "first_name": "Ria",
+        "last_name": "Kharbanda",
+        "company": "BharatPe India"
     },
     {
-        "email":  "Neha.Kalra1@aexp.com",
-        "name":  "Neha Kalra",
-        "first_name":  "Neha",
-        "last_name":  "Kalra",
-        "company":  "American Express India"
+        "email": "denzil.jose@payu.com",
+        "name": "Denzil Jose",
+        "first_name": "Denzil",
+        "last_name": "Jose",
+        "company": "PayU India"
     },
     {
-        "email":  "Charvi.Kapur1@aexp.com",
-        "name":  "Charvi Kapur",
-        "first_name":  "Charvi",
-        "last_name":  "Kapur",
-        "company":  "American Express India"
+        "email": "rashid.kareem@payu.com",
+        "name": "Rashid ul Kareem",
+        "first_name": "Rashid",
+        "last_name": "ul Kareem",
+        "company": "PayU India"
     },
     {
-        "email":  "Tanya.Malik@aexp.com",
-        "name":  "Tanya Malik",
-        "first_name":  "Tanya",
-        "last_name":  "Malik",
-        "company":  "American Express India"
+        "email": "Monika1.jain@paytm.com",
+        "name": "Monika Jain",
+        "first_name": "Monika",
+        "last_name": "Jain",
+        "company": "Paytm India"
     },
     {
-        "email":  "Sumit.Joshi@deshaw.com",
-        "name":  "Sumit Joshi",
-        "first_name":  "Sumit",
-        "last_name":  "Joshi",
-        "company":  "DE Shaw India"
+        "email": "meenal.choyal@paytm.com",
+        "name": "Meenal Choyal",
+        "first_name": "Meenal",
+        "last_name": "Choyal",
+        "company": "Paytm India"
     },
     {
-        "email":  "gurung@deshaw.com",
-        "name":  "Karan Gurung",
-        "first_name":  "Karan",
-        "last_name":  "Gurung",
-        "company":  "DE Shaw India"
+        "email": "sudeshna@fi.money",
+        "name": "Sudeshna Mishra",
+        "first_name": "Sudeshna",
+        "last_name": "Mishra",
+        "company": "Fi Money / EpiFi"
     },
     {
-        "email":  "nbhat@tower-research.com",
-        "name":  "Neha Bhat",
-        "first_name":  "Neha",
-        "last_name":  "Bhat",
-        "company":  "Tower Research Capital"
+        "email": "shruti.c@epifi.com",
+        "name": "Shruti Chaudhary",
+        "first_name": "Shruti",
+        "last_name": "Chaudhary",
+        "company": "Fi Money / EpiFi"
     },
     {
-        "email":  "nishitha.kuriyas@razorpay.com",
-        "name":  "Nishitha Kuriyas",
-        "first_name":  "Nishitha",
-        "last_name":  "Kuriyas",
-        "company":  "Razorpay India"
+        "email": "gunjan.sheth@sliceit.com",
+        "name": "Gunjan Sheth",
+        "first_name": "Gunjan",
+        "last_name": "Sheth",
+        "company": "Slice India"
     },
     {
-        "email":  "sumit.premi@razorpay.com",
-        "name":  "Sumit Premi",
-        "first_name":  "Sumit",
-        "last_name":  "Premi",
-        "company":  "Razorpay India"
+        "email": "sreenu.nair@sliceit.com",
+        "name": "Sreenu Nair",
+        "first_name": "Sreenu",
+        "last_name": "Nair",
+        "company": "Slice India"
     },
     {
-        "email":  "venkatesh.v@phonepe.com",
-        "name":  "Venkatesh Vemulamada",
-        "first_name":  "Venkatesh",
-        "last_name":  "Vemulamada",
-        "company":  "PhonePe India"
+        "email": "navyashree.m@coinswitch.co",
+        "name": "Navyashree M",
+        "first_name": "Navyashree",
+        "last_name": "M",
+        "company": "Coinswitch India"
     },
     {
-        "email":  "mansing.thoravde@phonepe.com",
-        "name":  "Mansing Thoravde",
-        "first_name":  "Mansing",
-        "last_name":  "Thoravde",
-        "company":  "PhonePe India"
+        "email": "nishant.d@coinswitch.co",
+        "name": "Nishant Das",
+        "first_name": "Nishant",
+        "last_name": "Das",
+        "company": "Coinswitch India"
     },
     {
-        "email":  "chandrika.s@phonepe.com",
-        "name":  "Chandrika T S",
-        "first_name":  "Chandrika",
-        "last_name":  "T S",
-        "company":  "PhonePe India"
+        "email": "kalpana.singh@fmr.com",
+        "name": "Kalpana Singh",
+        "first_name": "Kalpana",
+        "last_name": "Singh",
+        "company": "Fidelity Investments India"
     },
     {
-        "email":  "abhijeet.shankhdhar@juspay.in",
-        "name":  "Abhijeet Shankhdhar",
-        "first_name":  "Abhijeet",
-        "last_name":  "Shankhdhar",
-        "company":  "Juspay India"
+        "email": "shilpa.chawla@fidelity.com",
+        "name": "Shilpa Chawla",
+        "first_name": "Shilpa",
+        "last_name": "Chawla",
+        "company": "Fidelity Investments India"
     },
     {
-        "email":  "parul.shriwatri@juspay.in",
-        "name":  "Parul Shriwatri",
-        "first_name":  "Parul",
-        "last_name":  "Shriwatri",
-        "company":  "Juspay India"
+        "email": "nikhita.gurwara@blackrock.com",
+        "name": "Nikhita Gurwara",
+        "first_name": "Nikhita",
+        "last_name": "Gurwara",
+        "company": "BlackRock India"
     },
     {
-        "email":  "anshika.singh@juspay.in",
-        "name":  "Anshika Singh",
-        "first_name":  "Anshika",
-        "last_name":  "Singh",
-        "company":  "Juspay India"
+        "email": "pooja.semwal@blackrock.com",
+        "name": "Pooja Semwal",
+        "first_name": "Pooja",
+        "last_name": "Semwal",
+        "company": "BlackRock India"
     },
     {
-        "email":  "ganesh.krishnan@zeptonow.com",
-        "name":  "Ganesh Krishnan",
-        "first_name":  "Ganesh",
-        "last_name":  "Krishnan",
-        "company":  "Zepto India"
+        "email": "phajare@blackrock.com",
+        "name": "Pranita Hajare",
+        "first_name": "Pranita",
+        "last_name": "Hajare",
+        "company": "BlackRock India"
     },
     {
-        "email":  "gunjan.chandak@zeptonow.com",
-        "name":  "Gunjan Chandak",
-        "first_name":  "Gunjan",
-        "last_name":  "Chandak",
-        "company":  "Zepto India"
+        "email": "strafford.joe@flipkart.com",
+        "name": "Strafford Fernandes",
+        "first_name": "Strafford",
+        "last_name": "Fernandes",
+        "company": "Flipkart India"
     },
     {
-        "email":  "roma.bindroo@zeptonow.com",
-        "name":  "Roma Bindroo",
-        "first_name":  "Roma",
-        "last_name":  "Bindroo",
-        "company":  "Zepto India"
+        "email": "sandeep.nainwal@flipkart.com",
+        "name": "Sandeep Nainwal",
+        "first_name": "Sandeep",
+        "last_name": "Nainwal",
+        "company": "Flipkart India"
     },
     {
-        "email":  "krittika.ghosh@groww.in",
-        "name":  "Krittika Ghosh",
-        "first_name":  "Krittika",
-        "last_name":  "Ghosh",
-        "company":  "Groww India"
+        "email": "anjali.verma@flipkart.com",
+        "name": "Anjali Verma",
+        "first_name": "Anjali",
+        "last_name": "Verma",
+        "company": "Flipkart India"
     },
     {
-        "email":  "vaishali.jamwal@groww.in",
-        "name":  "Vaishali Jamwal",
-        "first_name":  "Vaishali",
-        "last_name":  "Jamwal",
-        "company":  "Groww India"
+        "email": "gaurav.saxena@zomato.com",
+        "name": "Gaurav Saxena",
+        "first_name": "Gaurav",
+        "last_name": "Saxena",
+        "company": "Zomato India"
     },
     {
-        "email":  "saumya.choudhary@groww.in",
-        "name":  "Saumya Choudhary",
-        "first_name":  "Saumya",
-        "last_name":  "Choudhary",
-        "company":  "Groww India"
+        "email": "kapil.batra@zomato.com",
+        "name": "Kapil Batra",
+        "first_name": "Kapil",
+        "last_name": "Batra",
+        "company": "Zomato India"
     },
     {
-        "email":  "varun@cred.club",
-        "name":  "Varun Hemaraj",
-        "first_name":  "Varun",
-        "last_name":  "Hemaraj",
-        "company":  "CRED India"
+        "email": "natasha.sethi@zomato.com",
+        "name": "Natasha Sethi",
+        "first_name": "Natasha",
+        "last_name": "Sethi",
+        "company": "Zomato India"
     },
     {
-        "email":  "lekshmi.g@cred.club",
-        "name":  "Lekshmi G",
-        "first_name":  "Lekshmi",
-        "last_name":  "G",
-        "company":  "CRED India"
+        "email": "manasa.mn@swiggy.in",
+        "name": "Manasa M.N.",
+        "first_name": "Manasa",
+        "last_name": "M.N.",
+        "company": "Swiggy India"
     },
     {
-        "email":  "piyusha.pancharia@cred.club",
-        "name":  "Piyusha Pancharia",
-        "first_name":  "Piyusha",
-        "last_name":  "Pancharia",
-        "company":  "CRED India"
+        "email": "girish.menon@swiggy.in",
+        "name": "Girish Menon",
+        "first_name": "Girish",
+        "last_name": "Menon",
+        "company": "Swiggy India"
     },
     {
-        "email":  "durgap@chargebee.com",
-        "name":  "Durgap Prasad",
-        "first_name":  "Durgap",
-        "last_name":  "Prasad",
-        "company":  "Chargebee India"
+        "email": "shayutha.kb@swiggy.in",
+        "name": "Shayutha K",
+        "first_name": "Shayutha",
+        "last_name": "K",
+        "company": "Swiggy India"
     },
     {
-        "email":  "vineeta.v@chargebee.com",
-        "name":  "Vineeta Vishwanath",
-        "first_name":  "Vineeta",
-        "last_name":  "Vishwanath",
-        "company":  "Chargebee India"
+        "email": "shivangi.rai@meesho.com",
+        "name": "Shivangi Rai",
+        "first_name": "Shivangi",
+        "last_name": "Rai",
+        "company": "Meesho India"
     },
     {
-        "email":  "sarmita.mukherjee@chargebee.com",
-        "name":  "Sarmita Mukherjee",
-        "first_name":  "Sarmita",
-        "last_name":  "Mukherjee",
-        "company":  "Chargebee India"
+        "email": "soumya.saxena@meesho.com",
+        "name": "Soumya Saxena",
+        "first_name": "Soumya",
+        "last_name": "Saxena",
+        "company": "Meesho India"
     },
     {
-        "email":  "shinjini.ghosh@hevodata.com",
-        "name":  "Shinjini Ghosh",
-        "first_name":  "Shinjini",
-        "last_name":  "Ghosh",
-        "company":  "Hevo Data India"
+        "email": "snigdha.jha@meesho.com",
+        "name": "Snigdha Jha",
+        "first_name": "Snigdha",
+        "last_name": "Jha",
+        "company": "Meesho India"
     },
     {
-        "email":  "sarah.jacob@hevodata.com",
-        "name":  "Sarah Jacob",
-        "first_name":  "Sarah",
-        "last_name":  "Jacob",
-        "company":  "Hevo Data India"
+        "email": "pranamya@sharechat.com",
+        "name": "Pranamya Rao",
+        "first_name": "Pranamya",
+        "last_name": "Rao",
+        "company": "ShareChat India"
     },
     {
-        "email":  "ashna.thakur@hevodata.com",
-        "name":  "Ashna Thakur",
-        "first_name":  "Ashna",
-        "last_name":  "Thakur",
-        "company":  "Hevo Data India"
+        "email": "anil.kumar@sharechat.com",
+        "name": "Anil Kumar",
+        "first_name": "Anil",
+        "last_name": "Kumar",
+        "company": "ShareChat India"
     },
     {
-        "email":  "shamsul.arfeen@innovaccer.com",
-        "name":  "Shamsul Arfeen",
-        "first_name":  "Shamsul",
-        "last_name":  "Arfeen",
-        "company":  "Innovaccer India"
+        "email": "sudhir@sharechat.com",
+        "name": "Sudhir Nair",
+        "first_name": "Sudhir",
+        "last_name": "Nair",
+        "company": "ShareChat India"
     },
     {
-        "email":  "kiran.upadhyay@innovaccer.com",
-        "name":  "Kiran Upadhyay",
-        "first_name":  "Kiran",
-        "last_name":  "Upadhyay",
-        "company":  "Innovaccer India"
+        "email": "sonali.gujare@olacabs.com",
+        "name": "Sonali Gujare",
+        "first_name": "Sonali",
+        "last_name": "Gujare",
+        "company": "Ola Cabs India"
     },
     {
-        "email":  "deep.singh@innovaccer.com",
-        "name":  "Deep Prakhar Singh",
-        "first_name":  "Deep",
-        "last_name":  "Prakhar Singh",
-        "company":  "Innovaccer India"
+        "email": "bharathwaj.s@olacabs.com",
+        "name": "Bharathwaj Srinivasan",
+        "first_name": "Bharathwaj",
+        "last_name": "Srinivasan",
+        "company": "Ola Cabs India"
     },
     {
-        "email":  "jeevan.kurian@upstox.com",
-        "name":  "Jeevan Kurian",
-        "first_name":  "Jeevan",
-        "last_name":  "Kurian",
-        "company":  "Upstox India"
+        "email": "eeksha.sharma@grofers.com",
+        "name": "Eeksha Sharma",
+        "first_name": "Eeksha",
+        "last_name": "Sharma",
+        "company": "Blinkit / Grofers"
     },
     {
-        "email":  "shivangisingh@upstox.com",
-        "name":  "Shivangi Singh",
-        "first_name":  "Shivangi",
-        "last_name":  "Singh",
-        "company":  "Upstox India"
+        "email": "careers@blinkit.com",
+        "name": "Careers",
+        "first_name": "Careers",
+        "last_name": "",
+        "company": "Blinkit / Grofers"
     },
     {
-        "email":  "kamiya.thakur@rksv.in",
-        "name":  "Kamiya Thakur",
-        "first_name":  "Kamiya",
-        "last_name":  "Thakur",
-        "company":  "Upstox India"
+        "email": "kaajal@dream11.com",
+        "name": "Kaajal Thukral",
+        "first_name": "Kaajal",
+        "last_name": "Thukral",
+        "company": "Dream11 India"
     },
     {
-        "email":  "ananda.pandey@angelbroking.com",
-        "name":  "Ananda Pandey",
-        "first_name":  "Ananda",
-        "last_name":  "Pandey",
-        "company":  "Angel One India"
+        "email": "mustafa@dream11.com",
+        "name": "Mustafa Kesarya",
+        "first_name": "Mustafa",
+        "last_name": "Kesarya",
+        "company": "Dream11 India"
     },
     {
-        "email":  "naina.gurang@angelbroking.com",
-        "name":  "Naina Gurang",
-        "first_name":  "Naina",
-        "last_name":  "Gurang",
-        "company":  "Angel One India"
+        "email": "ranjeet.negi@dream11.com",
+        "name": "Ranjeet Negi",
+        "first_name": "Ranjeet",
+        "last_name": "Negi",
+        "company": "Dream11 India"
     },
     {
-        "email":  "ria.kharbanda.ext@bharatpe.com",
-        "name":  "Ria Kharbanda",
-        "first_name":  "Ria",
-        "last_name":  "Kharbanda",
-        "company":  "BharatPe India"
+        "email": "saumya@hotstar.com",
+        "name": "Saumya Agarwal",
+        "first_name": "Saumya",
+        "last_name": "Agarwal",
+        "company": "Hotstar / Disney+"
     },
     {
-        "email":  "denzil.jose@payu.com",
-        "name":  "Denzil Jose",
-        "first_name":  "Denzil",
-        "last_name":  "Jose",
-        "company":  "PayU India"
+        "email": "saranya@hotstar.com",
+        "name": "Saranya Banerjee",
+        "first_name": "Saranya",
+        "last_name": "Banerjee",
+        "company": "Hotstar / Disney+"
     },
     {
-        "email":  "rashid.kareem@payu.com",
-        "name":  "Rashid ul Kareem",
-        "first_name":  "Rashid",
-        "last_name":  "ul Kareem",
-        "company":  "PayU India"
+        "email": "mohammed.imranullah@hotstar.com",
+        "name": "Mohammed Imran",
+        "first_name": "Mohammed",
+        "last_name": "Imran",
+        "company": "Hotstar / Disney+"
     },
     {
-        "email":  "Monika1.jain@paytm.com",
-        "name":  "Monika Jain",
-        "first_name":  "Monika",
-        "last_name":  "Jain",
-        "company":  "Paytm India"
+        "email": "shwetank.johri@inmobi.com",
+        "name": "Shwetank Johri",
+        "first_name": "Shwetank",
+        "last_name": "Johri",
+        "company": "InMobi India"
     },
     {
-        "email":  "meenal.choyal@paytm.com",
-        "name":  "Meenal Choyal",
-        "first_name":  "Meenal",
-        "last_name":  "Choyal",
-        "company":  "Paytm India"
+        "email": "meghashree.ramesh@inmobi.com",
+        "name": "Meghashree Ramesh",
+        "first_name": "Meghashree",
+        "last_name": "Ramesh",
+        "company": "InMobi India"
     },
     {
-        "email":  "sudeshna@fi.money",
-        "name":  "Sudeshna Mishra",
-        "first_name":  "Sudeshna",
-        "last_name":  "Mishra",
-        "company":  "Fi Money / EpiFi"
+        "email": "sandhya.thomas@inmobi.com",
+        "name": "Sandhya Thomas",
+        "first_name": "Sandhya",
+        "last_name": "Thomas",
+        "company": "InMobi India"
     },
     {
-        "email":  "shruti.c@epifi.com",
-        "name":  "Shruti Chaudhary",
-        "first_name":  "Shruti",
-        "last_name":  "Chaudhary",
-        "company":  "Fi Money / EpiFi"
+        "email": "reena.john@sprinklr.com",
+        "name": "Reena John",
+        "first_name": "Reena",
+        "last_name": "John",
+        "company": "Sprinklr India"
     },
     {
-        "email":  "gunjan.sheth@sliceit.com",
-        "name":  "Gunjan Sheth",
-        "first_name":  "Gunjan",
-        "last_name":  "Sheth",
-        "company":  "Slice India"
+        "email": "arushi.wadhwa@sprinklr.com",
+        "name": "Arushi Wadhwa",
+        "first_name": "Arushi",
+        "last_name": "Wadhwa",
+        "company": "Sprinklr India"
     },
     {
-        "email":  "sreenu.nair@sliceit.com",
-        "name":  "Sreenu Nair",
-        "first_name":  "Sreenu",
-        "last_name":  "Nair",
-        "company":  "Slice India"
+        "email": "monesh.r@sprinklr.com",
+        "name": "Monesh Ramasamy",
+        "first_name": "Monesh",
+        "last_name": "Ramasamy",
+        "company": "Sprinklr India"
     },
     {
-        "email":  "navyashree.m@coinswitch.co",
-        "name":  "Navyashree M",
-        "first_name":  "Navyashree",
-        "last_name":  "M",
-        "company":  "Coinswitch India"
+        "email": "sidharth.tyagi@acko.tech",
+        "name": "Sidharth Tyagi",
+        "first_name": "Sidharth",
+        "last_name": "Tyagi",
+        "company": "Acko India"
     },
     {
-        "email":  "nishant.d@coinswitch.co",
-        "name":  "Nishant Das",
-        "first_name":  "Nishant",
-        "last_name":  "Das",
-        "company":  "Coinswitch India"
+        "email": "deepa.padmaraj@acko.com",
+        "name": "Deepa Padmaraj",
+        "first_name": "Deepa",
+        "last_name": "Padmaraj",
+        "company": "Acko India"
     },
     {
-        "email":  "kalpana.singh@fmr.com",
-        "name":  "Kalpana Singh",
-        "first_name":  "Kalpana",
-        "last_name":  "Singh",
-        "company":  "Fidelity Investments India"
+        "email": "Bharti.jaiswal@rapido.bike",
+        "name": "Bharti Jaiswal",
+        "first_name": "Bharti",
+        "last_name": "Jaiswal",
+        "company": "Rapido India"
     },
     {
-        "email":  "shilpa.chawla@fidelity.com",
-        "name":  "Shilpa Chawla",
-        "first_name":  "Shilpa",
-        "last_name":  "Chawla",
-        "company":  "Fidelity Investments India"
+        "email": "k.sonali@rapido.bike",
+        "name": "Karapana Sonali",
+        "first_name": "Karapana",
+        "last_name": "Sonali",
+        "company": "Rapido India"
     },
     {
-        "email":  "nikhita.gurwara@blackrock.com",
-        "name":  "Nikhita Gurwara",
-        "first_name":  "Nikhita",
-        "last_name":  "Gurwara",
-        "company":  "BlackRock India"
+        "email": "ta@rapido.bike",
+        "name": "TA Team",
+        "first_name": "TA",
+        "last_name": "Team",
+        "company": "Rapido India"
     },
     {
-        "email":  "pooja.semwal@blackrock.com",
-        "name":  "Pooja Semwal",
-        "first_name":  "Pooja",
-        "last_name":  "Semwal",
-        "company":  "BlackRock India"
+        "email": "minal.sharma@delhivery.com",
+        "name": "Minal Sharma",
+        "first_name": "Minal",
+        "last_name": "Sharma",
+        "company": "Delhivery India"
     },
     {
-        "email":  "phajare@blackrock.com",
-        "name":  "Pranita Hajare",
-        "first_name":  "Pranita",
-        "last_name":  "Hajare",
-        "company":  "BlackRock India"
+        "email": "esha.mal@delhivery.com",
+        "name": "Esha Mal",
+        "first_name": "Esha",
+        "last_name": "Mal",
+        "company": "Delhivery India"
     },
     {
-        "email":  "strafford.joe@flipkart.com",
-        "name":  "Strafford Fernandes",
-        "first_name":  "Strafford",
-        "last_name":  "Fernandes",
-        "company":  "Flipkart India"
+        "email": "preetesh.saha@delhivery.com",
+        "name": "Preetesh Saha",
+        "first_name": "Preetesh",
+        "last_name": "Saha",
+        "company": "Delhivery India"
     },
     {
-        "email":  "sandeep.nainwal@flipkart.com",
-        "name":  "Sandeep Nainwal",
-        "first_name":  "Sandeep",
-        "last_name":  "Nainwal",
-        "company":  "Flipkart India"
+        "email": "mridu.alagj@go-mmt.com",
+        "name": "Mridu Alagh",
+        "first_name": "Mridu",
+        "last_name": "Alagh",
+        "company": "MakeMyTrip India"
     },
     {
-        "email":  "anjali.verma@flipkart.com",
-        "name":  "Anjali Verma",
-        "first_name":  "Anjali",
-        "last_name":  "Verma",
-        "company":  "Flipkart India"
+        "email": "jitensharma@expedia.com",
+        "name": "Jitendra Sharma",
+        "first_name": "Jitendra",
+        "last_name": "Sharma",
+        "company": "Expedia Group India"
     },
     {
-        "email":  "gaurav.saxena@zomato.com",
-        "name":  "Gaurav Saxena",
-        "first_name":  "Gaurav",
-        "last_name":  "Saxena",
-        "company":  "Zomato India"
+        "email": "pomahajan@expediagroup.com",
+        "name": "Porvi Mahajan",
+        "first_name": "Porvi",
+        "last_name": "Mahajan",
+        "company": "Expedia Group India"
     },
     {
-        "email":  "kapil.batra@zomato.com",
-        "name":  "Kapil Batra",
-        "first_name":  "Kapil",
-        "last_name":  "Batra",
-        "company":  "Zomato India"
+        "email": "josdavid@expediagroup.com",
+        "name": "Joshua David",
+        "first_name": "Joshua",
+        "last_name": "David",
+        "company": "Expedia Group India"
     },
     {
-        "email":  "natasha.sethi@zomato.com",
-        "name":  "Natasha Sethi",
-        "first_name":  "Natasha",
-        "last_name":  "Sethi",
-        "company":  "Zomato India"
+        "email": "shalinisingh@urbancompany.com",
+        "name": "Shalini Singh",
+        "first_name": "Shalini",
+        "last_name": "Singh",
+        "company": "Urban Company India"
     },
     {
-        "email":  "manasa.mn@swiggy.in",
-        "name":  "Manasa M.N.",
-        "first_name":  "Manasa",
-        "last_name":  "M.N.",
-        "company":  "Swiggy India"
+        "email": "aayushivohra@urbancompany.com",
+        "name": "Aayushi Vohra",
+        "first_name": "Aayushi",
+        "last_name": "Vohra",
+        "company": "Urban Company India"
     },
     {
-        "email":  "girish.menon@swiggy.in",
-        "name":  "Girish Menon",
-        "first_name":  "Girish",
-        "last_name":  "Menon",
-        "company":  "Swiggy India"
+        "email": "vagmisondhi@urbancompany.com",
+        "name": "Vagmi Sondhi",
+        "first_name": "Vagmi",
+        "last_name": "Sondhi",
+        "company": "Urban Company India"
     },
     {
-        "email":  "shayutha.kb@swiggy.in",
-        "name":  "Shayutha K",
-        "first_name":  "Shayutha",
-        "last_name":  "K",
-        "company":  "Swiggy India"
+        "email": "wajahat.ali@nykaa.com",
+        "name": "Wajahat Ali",
+        "first_name": "Wajahat",
+        "last_name": "Ali",
+        "company": "Nykaa India"
     },
     {
-        "email":  "shivangi.rai@meesho.com",
-        "name":  "Shivangi Rai",
-        "first_name":  "Shivangi",
-        "last_name":  "Rai",
-        "company":  "Meesho India"
+        "email": "prashalini.verma@nykaa.com",
+        "name": "Prashalini Verma",
+        "first_name": "Prashalini",
+        "last_name": "Verma",
+        "company": "Nykaa India"
     },
     {
-        "email":  "soumya.saxena@meesho.com",
-        "name":  "Soumya Saxena",
-        "first_name":  "Soumya",
-        "last_name":  "Saxena",
-        "company":  "Meesho India"
+        "email": "chaitra.rathore@myntra.com",
+        "name": "Chaitra N Rathore",
+        "first_name": "Chaitra",
+        "last_name": "N Rathore",
+        "company": "Myntra India"
     },
     {
-        "email":  "snigdha.jha@meesho.com",
-        "name":  "Snigdha Jha",
-        "first_name":  "Snigdha",
-        "last_name":  "Jha",
-        "company":  "Meesho India"
+        "email": "nikitha.lingaraju@myntra.com",
+        "name": "Nikita Lingaraju",
+        "first_name": "Nikita",
+        "last_name": "Lingaraju",
+        "company": "Myntra India"
     },
     {
-        "email":  "pranamya@sharechat.com",
-        "name":  "Pranamya Rao",
-        "first_name":  "Pranamya",
-        "last_name":  "Rao",
-        "company":  "ShareChat India"
+        "email": "anand.venkateshappa@myntra.com",
+        "name": "Anand Venkateshappa",
+        "first_name": "Anand",
+        "last_name": "Venkateshappa",
+        "company": "Myntra India"
     },
     {
-        "email":  "anil.kumar@sharechat.com",
-        "name":  "Anil Kumar",
-        "first_name":  "Anil",
-        "last_name":  "Kumar",
-        "company":  "ShareChat India"
+        "email": "gkrishnan@tekion.com",
+        "name": "Ganesh Krishnan",
+        "first_name": "Ganesh",
+        "last_name": "Krishnan",
+        "company": "Tekion India"
     },
     {
-        "email":  "sudhir@sharechat.com",
-        "name":  "Sudhir Nair",
-        "first_name":  "Sudhir",
-        "last_name":  "Nair",
-        "company":  "ShareChat India"
+        "email": "gpsingh@tekion.com",
+        "name": "Gajendra Singh",
+        "first_name": "Gajendra",
+        "last_name": "Singh",
+        "company": "Tekion India"
     },
     {
-        "email":  "sonali.gujare@olacabs.com",
-        "name":  "Sonali Gujare",
-        "first_name":  "Sonali",
-        "last_name":  "Gujare",
-        "company":  "Ola Cabs India"
+        "email": "nthejoprakash@tekion.com",
+        "name": "Neeraja ThejoPrakash",
+        "first_name": "Neeraja",
+        "last_name": "ThejoPrakash",
+        "company": "Tekion India"
     },
     {
-        "email":  "bharathwaj.s@olacabs.com",
-        "name":  "Bharathwaj Srinivasan",
-        "first_name":  "Bharathwaj",
-        "last_name":  "Srinivasan",
-        "company":  "Ola Cabs India"
+        "email": "sumith@clevertap.com",
+        "name": "Sumith",
+        "first_name": "Sumith",
+        "last_name": "",
+        "company": "Clevertap India"
     },
     {
-        "email":  "eeksha.sharma@grofers.com",
-        "name":  "Eeksha Sharma",
-        "first_name":  "Eeksha",
-        "last_name":  "Sharma",
-        "company":  "Blinkit / Grofers"
+        "email": "jyotsna.mamidi@harness.io",
+        "name": "Jyotsna Mamidi",
+        "first_name": "Jyotsna",
+        "last_name": "Mamidi",
+        "company": "Harness India"
     },
     {
-        "email":  "careers@blinkit.com",
-        "name":  "Careers",
-        "first_name":  "Careers",
-        "last_name":  "",
-        "company":  "Blinkit / Grofers"
+        "email": "chandrug@harness.io",
+        "name": "Chandrashekar G",
+        "first_name": "Chandrashekar",
+        "last_name": "G",
+        "company": "Harness India"
     },
     {
-        "email":  "kaajal@dream11.com",
-        "name":  "Kaajal Thukral",
-        "first_name":  "Kaajal",
-        "last_name":  "Thukral",
-        "company":  "Dream11 India"
+        "email": "nchaudhary@eightfold.ai",
+        "name": "Nishant Chaudhary",
+        "first_name": "Nishant",
+        "last_name": "Chaudhary",
+        "company": "Eightfold AI India"
     },
     {
-        "email":  "mustafa@dream11.com",
-        "name":  "Mustafa Kesarya",
-        "first_name":  "Mustafa",
-        "last_name":  "Kesarya",
-        "company":  "Dream11 India"
+        "email": "ghegde@eightfold.ai",
+        "name": "Guru Hegde",
+        "first_name": "Guru",
+        "last_name": "Hegde",
+        "company": "Eightfold AI India"
     },
     {
-        "email":  "ranjeet.negi@dream11.com",
-        "name":  "Ranjeet Negi",
-        "first_name":  "Ranjeet",
-        "last_name":  "Negi",
-        "company":  "Dream11 India"
+        "email": "psavekar@eightfold.ai",
+        "name": "Priyanka Savekar",
+        "first_name": "Priyanka",
+        "last_name": "Savekar",
+        "company": "Eightfold AI India"
     },
     {
-        "email":  "saumya@hotstar.com",
-        "name":  "Saumya Agarwal",
-        "first_name":  "Saumya",
-        "last_name":  "Agarwal",
-        "company":  "Hotstar / Disney+"
+        "email": "asharma@confluent.io",
+        "name": "Amit Sharma",
+        "first_name": "Amit",
+        "last_name": "Sharma",
+        "company": "Confluent India"
     },
     {
-        "email":  "saranya@hotstar.com",
-        "name":  "Saranya Banerjee",
-        "first_name":  "Saranya",
-        "last_name":  "Banerjee",
-        "company":  "Hotstar / Disney+"
+        "email": "schaturvedi@confluent.io",
+        "name": "Sonal Chaturvedi",
+        "first_name": "Sonal",
+        "last_name": "Chaturvedi",
+        "company": "Confluent India"
     },
     {
-        "email":  "mohammed.imranullah@hotstar.com",
-        "name":  "Mohammed Imran",
-        "first_name":  "Mohammed",
-        "last_name":  "Imran",
-        "company":  "Hotstar / Disney+"
+        "email": "chetna.setia@udaan.com",
+        "name": "Chetna Setia",
+        "first_name": "Chetna",
+        "last_name": "Setia",
+        "company": "Udaan India"
     },
     {
-        "email":  "shwetank.johri@inmobi.com",
-        "name":  "Shwetank Johri",
-        "first_name":  "Shwetank",
-        "last_name":  "Johri",
-        "company":  "InMobi India"
+        "email": "pranav.sharan@udaan.com",
+        "name": "Pranav Sharan",
+        "first_name": "Pranav",
+        "last_name": "Sharan",
+        "company": "Udaan India"
     },
     {
-        "email":  "meghashree.ramesh@inmobi.com",
-        "name":  "Meghashree Ramesh",
-        "first_name":  "Meghashree",
-        "last_name":  "Ramesh",
-        "company":  "InMobi India"
+        "email": "himanshikaj.i@sprinto.com",
+        "name": "Himanshika Jasuja",
+        "first_name": "Himanshika",
+        "last_name": "Jasuja",
+        "company": "Sprinto India"
     },
     {
-        "email":  "sandhya.thomas@inmobi.com",
-        "name":  "Sandhya Thomas",
-        "first_name":  "Sandhya",
-        "last_name":  "Thomas",
-        "company":  "InMobi India"
+        "email": "bhajneet@khatabook.com",
+        "name": "Bhajneet Singh Dhingra",
+        "first_name": "Bhajneet",
+        "last_name": "Singh Dhingra",
+        "company": "Khatabook India"
     },
     {
-        "email":  "reena.john@sprinklr.com",
-        "name":  "Reena John",
-        "first_name":  "Reena",
-        "last_name":  "John",
-        "company":  "Sprinklr India"
+        "email": "kavita.singh@khatabook.com",
+        "name": "Kavita Singh",
+        "first_name": "Kavita",
+        "last_name": "Singh",
+        "company": "Khatabook India"
     },
     {
-        "email":  "arushi.wadhwa@sprinklr.com",
-        "name":  "Arushi Wadhwa",
-        "first_name":  "Arushi",
-        "last_name":  "Wadhwa",
-        "company":  "Sprinklr India"
+        "email": "rjobanputra@indeed.com",
+        "name": "Ruchi Jobanputra",
+        "first_name": "Ruchi",
+        "last_name": "Jobanputra",
+        "company": "Indeed India"
     },
     {
-        "email":  "monesh.r@sprinklr.com",
-        "name":  "Monesh Ramasamy",
-        "first_name":  "Monesh",
-        "last_name":  "Ramasamy",
-        "company":  "Sprinklr India"
+        "email": "sdarga@indeed.com",
+        "name": "Suprita Darga",
+        "first_name": "Suprita",
+        "last_name": "Darga",
+        "company": "Indeed India"
     },
     {
-        "email":  "sidharth.tyagi@acko.tech",
-        "name":  "Sidharth Tyagi",
-        "first_name":  "Sidharth",
-        "last_name":  "Tyagi",
-        "company":  "Acko India"
+        "email": "shruthi@rippling.com",
+        "name": "Shruthi K",
+        "first_name": "Shruthi",
+        "last_name": "K",
+        "company": "Rippling India"
     },
     {
-        "email":  "deepa.padmaraj@acko.com",
-        "name":  "Deepa Padmaraj",
-        "first_name":  "Deepa",
-        "last_name":  "Padmaraj",
-        "company":  "Acko India"
+        "email": "pkadam@rippling.com",
+        "name": "Pooja Kadam",
+        "first_name": "Pooja",
+        "last_name": "Kadam",
+        "company": "Rippling India"
     },
     {
-        "email":  "Bharti.jaiswal@rapido.bike",
-        "name":  "Bharti Jaiswal",
-        "first_name":  "Bharti",
-        "last_name":  "Jaiswal",
-        "company":  "Rapido India"
+        "email": "anku.kumari@shiprocket.com",
+        "name": "Anku Kumari",
+        "first_name": "Anku",
+        "last_name": "Kumari",
+        "company": "Shiprocket India"
     },
     {
-        "email":  "k.sonali@rapido.bike",
-        "name":  "Karapana Sonali",
-        "first_name":  "Karapana",
-        "last_name":  "Sonali",
-        "company":  "Rapido India"
+        "email": "anku.singh@shiprocket.in",
+        "name": "Anku Singh",
+        "first_name": "Anku",
+        "last_name": "Singh",
+        "company": "Shiprocket India"
     },
     {
-        "email":  "ta@rapido.bike",
-        "name":  "TA Team",
-        "first_name":  "TA",
-        "last_name":  "Team",
-        "company":  "Rapido India"
+        "email": "rohit.kumar12@olaelectric.com",
+        "name": "Rohit Kumar",
+        "first_name": "Rohit",
+        "last_name": "Kumar",
+        "company": "OLA Electric India"
     },
     {
-        "email":  "minal.sharma@delhivery.com",
-        "name":  "Minal Sharma",
-        "first_name":  "Minal",
-        "last_name":  "Sharma",
-        "company":  "Delhivery India"
+        "email": "vaishali.r@olaelectric.com",
+        "name": "Vaishali Radhakrishnan",
+        "first_name": "Vaishali",
+        "last_name": "Radhakrishnan",
+        "company": "OLA Electric India"
     },
     {
-        "email":  "esha.mal@delhivery.com",
-        "name":  "Esha Mal",
-        "first_name":  "Esha",
-        "last_name":  "Mal",
-        "company":  "Delhivery India"
+        "email": "panchami.poonacha@olaelectric.com",
+        "name": "Panchami Poonacha",
+        "first_name": "Panchami",
+        "last_name": "Poonacha",
+        "company": "OLA Electric India"
     },
     {
-        "email":  "preetesh.saha@delhivery.com",
-        "name":  "Preetesh Saha",
-        "first_name":  "Preetesh",
-        "last_name":  "Saha",
-        "company":  "Delhivery India"
+        "email": "n.shukla@samsung.com",
+        "name": "Nilanchal Shukla",
+        "first_name": "Nilanchal",
+        "last_name": "Shukla",
+        "company": "Samsung R&D India"
     },
     {
-        "email":  "mridu.alagj@go-mmt.com",
-        "name":  "Mridu Alagh",
-        "first_name":  "Mridu",
-        "last_name":  "Alagh",
-        "company":  "MakeMyTrip India"
+        "email": "v.joshi@samsung.com",
+        "name": "Vivek Joshi",
+        "first_name": "Vivek",
+        "last_name": "Joshi",
+        "company": "Samsung R&D India"
     },
     {
-        "email":  "jitensharma@expedia.com",
-        "name":  "Jitendra Sharma",
-        "first_name":  "Jitendra",
-        "last_name":  "Sharma",
-        "company":  "Expedia Group India"
+        "email": "bharath.k@samsung.com",
+        "name": "Bharath Kakaiah",
+        "first_name": "Bharath",
+        "last_name": "Kakaiah",
+        "company": "Samsung R&D India"
     },
     {
-        "email":  "pomahajan@expediagroup.com",
-        "name":  "Porvi Mahajan",
-        "first_name":  "Porvi",
-        "last_name":  "Mahajan",
-        "company":  "Expedia Group India"
+        "email": "ankita.ganguly@zoom.us",
+        "name": "Ankita Ganguly",
+        "first_name": "Ankita",
+        "last_name": "Ganguly",
+        "company": "Zoom India"
     },
     {
-        "email":  "josdavid@expediagroup.com",
-        "name":  "Joshua David",
-        "first_name":  "Joshua",
-        "last_name":  "David",
-        "company":  "Expedia Group India"
+        "email": "sarthak.vohra@mongodb.com",
+        "name": "Sarthak Vohra",
+        "first_name": "Sarthak",
+        "last_name": "Vohra",
+        "company": "MongoDB India"
     },
     {
-        "email":  "shalinisingh@urbancompany.com",
-        "name":  "Shalini Singh",
-        "first_name":  "Shalini",
-        "last_name":  "Singh",
-        "company":  "Urban Company India"
+        "email": "vignesh.srikanth@freshworks.com",
+        "name": "Vignesh Srikanth",
+        "first_name": "Vignesh",
+        "last_name": "Srikanth",
+        "company": "Freshworks India"
     },
     {
-        "email":  "aayushivohra@urbancompany.com",
-        "name":  "Aayushi Vohra",
-        "first_name":  "Aayushi",
-        "last_name":  "Vohra",
-        "company":  "Urban Company India"
+        "email": "divya.balraj@freshworks.com",
+        "name": "Divya Balraj",
+        "first_name": "Divya",
+        "last_name": "Balraj",
+        "company": "Freshworks India"
     },
     {
-        "email":  "vagmisondhi@urbancompany.com",
-        "name":  "Vagmi Sondhi",
-        "first_name":  "Vagmi",
-        "last_name":  "Sondhi",
-        "company":  "Urban Company India"
+        "email": "malathi.ns@hyperverge.co",
+        "name": "Malathi N S",
+        "first_name": "Malathi",
+        "last_name": "N S",
+        "company": "HyperVerge India"
     },
     {
-        "email":  "wajahat.ali@nykaa.com",
-        "name":  "Wajahat Ali",
-        "first_name":  "Wajahat",
-        "last_name":  "Ali",
-        "company":  "Nykaa India"
+        "email": "gunjan.agarwal@hyperverge.co",
+        "name": "Gunjan Agarwal",
+        "first_name": "Gunjan",
+        "last_name": "Agarwal",
+        "company": "HyperVerge India"
     },
     {
-        "email":  "prashalini.verma@nykaa.com",
-        "name":  "Prashalini Verma",
-        "first_name":  "Prashalini",
-        "last_name":  "Verma",
-        "company":  "Nykaa India"
+        "email": "pradeep.desu@go-jek.com",
+        "name": "Pradeep Desu",
+        "first_name": "Pradeep",
+        "last_name": "Desu",
+        "company": "Gojek India"
     },
     {
-        "email":  "chaitra.rathore@myntra.com",
-        "name":  "Chaitra N Rathore",
-        "first_name":  "Chaitra",
-        "last_name":  "N Rathore",
-        "company":  "Myntra India"
+        "email": "ameya.ayachit@go-jek.com",
+        "name": "Ameya A",
+        "first_name": "Ameya",
+        "last_name": "A",
+        "company": "Gojek India"
     },
     {
-        "email":  "nikitha.lingaraju@myntra.com",
-        "name":  "Nikita Lingaraju",
-        "first_name":  "Nikita",
-        "last_name":  "Lingaraju",
-        "company":  "Myntra India"
+        "email": "serenariccomagno@optiver.com",
+        "name": "Serena Riccomagno",
+        "first_name": "Serena",
+        "last_name": "Riccomagno",
+        "company": "Optiver India"
     },
     {
-        "email":  "anand.venkateshappa@myntra.com",
-        "name":  "Anand Venkateshappa",
-        "first_name":  "Anand",
-        "last_name":  "Venkateshappa",
-        "company":  "Myntra India"
+        "email": "christina.barr@optiver.com.au",
+        "name": "Christina Barr",
+        "first_name": "Christina",
+        "last_name": "Barr",
+        "company": "Optiver India"
     },
     {
-        "email":  "gkrishnan@tekion.com",
-        "name":  "Ganesh Krishnan",
-        "first_name":  "Ganesh",
-        "last_name":  "Krishnan",
-        "company":  "Tekion India"
+        "email": "ishan@gravitonresearch.com",
+        "name": "Ishan Mishra",
+        "first_name": "Ishan",
+        "last_name": "Mishra",
+        "company": "Graviton Research Capital"
     },
     {
-        "email":  "gpsingh@tekion.com",
-        "name":  "Gajendra Singh",
-        "first_name":  "Gajendra",
-        "last_name":  "Singh",
-        "company":  "Tekion India"
+        "email": "snigdha.jha@gravitontrading.com",
+        "name": "Snigdha Jha",
+        "first_name": "Snigdha",
+        "last_name": "Jha",
+        "company": "Graviton Research Capital"
     },
     {
-        "email":  "nthejoprakash@tekion.com",
-        "name":  "Neeraja ThejoPrakash",
-        "first_name":  "Neeraja",
-        "last_name":  "ThejoPrakash",
-        "company":  "Tekion India"
+        "email": "aishwarya.pallath@gravitontrading.com",
+        "name": "Aishwarya Pallath",
+        "first_name": "Aishwarya",
+        "last_name": "Pallath",
+        "company": "Graviton Research Capital"
     },
     {
-        "email":  "sumith@clevertap.com",
-        "name":  "Sumith",
-        "first_name":  "Sumith",
-        "last_name":  "",
-        "company":  "Clevertap India"
+        "email": "kirti.sharma@airtel.com",
+        "name": "Kirti Sharma",
+        "first_name": "Kirti",
+        "last_name": "Sharma",
+        "company": "Airtel India"
     },
     {
-        "email":  "jyotsna.mamidi@harness.io",
-        "name":  "Jyotsna Mamidi",
-        "first_name":  "Jyotsna",
-        "last_name":  "Mamidi",
-        "company":  "Harness India"
+        "email": "prashant.deo@airtel.in",
+        "name": "Prashant Deo Singh",
+        "first_name": "Prashant",
+        "last_name": "Deo Singh",
+        "company": "Airtel India"
     },
     {
-        "email":  "chandrug@harness.io",
-        "name":  "Chandrashekar G",
-        "first_name":  "Chandrashekar",
-        "last_name":  "G",
-        "company":  "Harness India"
-    },
-    {
-        "email":  "nchaudhary@eightfold.ai",
-        "name":  "Nishant Chaudhary",
-        "first_name":  "Nishant",
-        "last_name":  "Chaudhary",
-        "company":  "Eightfold AI India"
-    },
-    {
-        "email":  "ghegde@eightfold.ai",
-        "name":  "Guru Hegde",
-        "first_name":  "Guru",
-        "last_name":  "Hegde",
-        "company":  "Eightfold AI India"
-    },
-    {
-        "email":  "psavekar@eightfold.ai",
-        "name":  "Priyanka Savekar",
-        "first_name":  "Priyanka",
-        "last_name":  "Savekar",
-        "company":  "Eightfold AI India"
-    },
-    {
-        "email":  "asharma@confluent.io",
-        "name":  "Amit Sharma",
-        "first_name":  "Amit",
-        "last_name":  "Sharma",
-        "company":  "Confluent India"
-    },
-    {
-        "email":  "schaturvedi@confluent.io",
-        "name":  "Sonal Chaturvedi",
-        "first_name":  "Sonal",
-        "last_name":  "Chaturvedi",
-        "company":  "Confluent India"
-    },
-    {
-        "email":  "chetna.setia@udaan.com",
-        "name":  "Chetna Setia",
-        "first_name":  "Chetna",
-        "last_name":  "Setia",
-        "company":  "Udaan India"
-    },
-    {
-        "email":  "pranav.sharan@udaan.com",
-        "name":  "Pranav Sharan",
-        "first_name":  "Pranav",
-        "last_name":  "Sharan",
-        "company":  "Udaan India"
-    },
-    {
-        "email":  "himanshikaj.i@sprinto.com",
-        "name":  "Himanshika Jasuja",
-        "first_name":  "Himanshika",
-        "last_name":  "Jasuja",
-        "company":  "Sprinto India"
-    },
-    {
-        "email":  "bhajneet@khatabook.com",
-        "name":  "Bhajneet Singh Dhingra",
-        "first_name":  "Bhajneet",
-        "last_name":  "Singh Dhingra",
-        "company":  "Khatabook India"
-    },
-    {
-        "email":  "kavita.singh@khatabook.com",
-        "name":  "Kavita Singh",
-        "first_name":  "Kavita",
-        "last_name":  "Singh",
-        "company":  "Khatabook India"
-    },
-    {
-        "email":  "rjobanputra@indeed.com",
-        "name":  "Ruchi Jobanputra",
-        "first_name":  "Ruchi",
-        "last_name":  "Jobanputra",
-        "company":  "Indeed India"
-    },
-    {
-        "email":  "sdarga@indeed.com",
-        "name":  "Suprita Darga",
-        "first_name":  "Suprita",
-        "last_name":  "Darga",
-        "company":  "Indeed India"
-    },
-    {
-        "email":  "shruthi@rippling.com",
-        "name":  "Shruthi K",
-        "first_name":  "Shruthi",
-        "last_name":  "K",
-        "company":  "Rippling India"
-    },
-    {
-        "email":  "pkadam@rippling.com",
-        "name":  "Pooja Kadam",
-        "first_name":  "Pooja",
-        "last_name":  "Kadam",
-        "company":  "Rippling India"
-    },
-    {
-        "email":  "anku.kumari@shiprocket.com",
-        "name":  "Anku Kumari",
-        "first_name":  "Anku",
-        "last_name":  "Kumari",
-        "company":  "Shiprocket India"
-    },
-    {
-        "email":  "anku.singh@shiprocket.in",
-        "name":  "Anku Singh",
-        "first_name":  "Anku",
-        "last_name":  "Singh",
-        "company":  "Shiprocket India"
-    },
-    {
-        "email":  "rohit.kumar12@olaelectric.com",
-        "name":  "Rohit Kumar",
-        "first_name":  "Rohit",
-        "last_name":  "Kumar",
-        "company":  "OLA Electric India"
-    },
-    {
-        "email":  "vaishali.r@olaelectric.com",
-        "name":  "Vaishali Radhakrishnan",
-        "first_name":  "Vaishali",
-        "last_name":  "Radhakrishnan",
-        "company":  "OLA Electric India"
-    },
-    {
-        "email":  "panchami.poonacha@olaelectric.com",
-        "name":  "Panchami Poonacha",
-        "first_name":  "Panchami",
-        "last_name":  "Poonacha",
-        "company":  "OLA Electric India"
-    },
-    {
-        "email":  "n.shukla@samsung.com",
-        "name":  "Nilanchal Shukla",
-        "first_name":  "Nilanchal",
-        "last_name":  "Shukla",
-        "company":  "Samsung R\u0026D India"
-    },
-    {
-        "email":  "v.joshi@samsung.com",
-        "name":  "Vivek Joshi",
-        "first_name":  "Vivek",
-        "last_name":  "Joshi",
-        "company":  "Samsung R\u0026D India"
-    },
-    {
-        "email":  "bharath.k@samsung.com",
-        "name":  "Bharath Kakaiah",
-        "first_name":  "Bharath",
-        "last_name":  "Kakaiah",
-        "company":  "Samsung R\u0026D India"
-    },
-    {
-        "email":  "ankita.ganguly@zoom.us",
-        "name":  "Ankita Ganguly",
-        "first_name":  "Ankita",
-        "last_name":  "Ganguly",
-        "company":  "Zoom India"
-    },
-    {
-        "email":  "sarthak.vohra@mongodb.com",
-        "name":  "Sarthak Vohra",
-        "first_name":  "Sarthak",
-        "last_name":  "Vohra",
-        "company":  "MongoDB India"
-    },
-    {
-        "email":  "vignesh.srikanth@freshworks.com",
-        "name":  "Vignesh Srikanth",
-        "first_name":  "Vignesh",
-        "last_name":  "Srikanth",
-        "company":  "Freshworks India"
-    },
-    {
-        "email":  "divya.balraj@freshworks.com",
-        "name":  "Divya Balraj",
-        "first_name":  "Divya",
-        "last_name":  "Balraj",
-        "company":  "Freshworks India"
-    },
-    {
-        "email":  "malathi.ns@hyperverge.co",
-        "name":  "Malathi N S",
-        "first_name":  "Malathi",
-        "last_name":  "N S",
-        "company":  "HyperVerge India"
-    },
-    {
-        "email":  "gunjan.agarwal@hyperverge.co",
-        "name":  "Gunjan Agarwal",
-        "first_name":  "Gunjan",
-        "last_name":  "Agarwal",
-        "company":  "HyperVerge India"
-    },
-    {
-        "email":  "pradeep.desu@go-jek.com",
-        "name":  "Pradeep Desu",
-        "first_name":  "Pradeep",
-        "last_name":  "Desu",
-        "company":  "Gojek India"
-    },
-    {
-        "email":  "ameya.ayachit@go-jek.com",
-        "name":  "Ameya A",
-        "first_name":  "Ameya",
-        "last_name":  "A",
-        "company":  "Gojek India"
-    },
-    {
-        "email":  "serenariccomagno@optiver.com",
-        "name":  "Serena Riccomagno",
-        "first_name":  "Serena",
-        "last_name":  "Riccomagno",
-        "company":  "Optiver India"
-    },
-    {
-        "email":  "christina.barr@optiver.com.au",
-        "name":  "Christina Barr",
-        "first_name":  "Christina",
-        "last_name":  "Barr",
-        "company":  "Optiver India"
-    },
-    {
-        "email":  "ishan@gravitonresearch.com",
-        "name":  "Ishan Mishra",
-        "first_name":  "Ishan",
-        "last_name":  "Mishra",
-        "company":  "Graviton Research Capital"
-    },
-    {
-        "email":  "snigdha.jha@gravitontrading.com",
-        "name":  "Snigdha Jha",
-        "first_name":  "Snigdha",
-        "last_name":  "Jha",
-        "company":  "Graviton Research Capital"
-    },
-    {
-        "email":  "aishwarya.pallath@gravitontrading.com",
-        "name":  "Aishwarya Pallath",
-        "first_name":  "Aishwarya",
-        "last_name":  "Pallath",
-        "company":  "Graviton Research Capital"
-    },
-    {
-        "email":  "kirti.sharma@airtel.com",
-        "name":  "Kirti Sharma",
-        "first_name":  "Kirti",
-        "last_name":  "Sharma",
-        "company":  "Airtel India"
-    },
-    {
-        "email":  "prashant.deo@airtel.in",
-        "name":  "Prashant Deo Singh",
-        "first_name":  "Prashant",
-        "last_name":  "Deo Singh",
-        "company":  "Airtel India"
-    },
-    {
-        "email":  "disha.mona@airtel.com",
-        "name":  "Disha Mona",
-        "first_name":  "Disha",
-        "last_name":  "Mona",
-        "company":  "Airtel India"
+        "email": "disha.mona@airtel.com",
+        "name": "Disha Mona",
+        "first_name": "Disha",
+        "last_name": "Mona",
+        "company": "Airtel India"
     }
 ]
