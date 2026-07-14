@@ -560,34 +560,6 @@
         "company":  "Goldman Sachs India"
     },
     {
-        "email":  "manisha.shah@morganstanley.com",
-        "name":  "Manisha Shah",
-        "first_name":  "Manisha",
-        "last_name":  "Shah",
-        "company":  "Morgan Stanley India"
-    },
-    {
-        "email":  "sonam@morganstanley.com",
-        "name":  "Sonam Chopra",
-        "first_name":  "Sonam",
-        "last_name":  "Chopra",
-        "company":  "Morgan Stanley India"
-    },
-    {
-        "email":  "Madhura.Girkar@morganstanley.com",
-        "name":  "Madhura Girkar",
-        "first_name":  "Madhura",
-        "last_name":  "Girkar",
-        "company":  "Morgan Stanley India"
-    },
-    {
-        "email":  "reagan.a.a@jpmchase.com",
-        "name":  "Reagan Alphonso",
-        "first_name":  "Reagan",
-        "last_name":  "Alphonso",
-        "company":  "J.P. Morgan India"
-    },
-    {
         "email":  "ruben.r@jpmorgan.com",
         "name":  "Ruben Rajamanickam",
         "first_name":  "Ruben",
@@ -600,13 +572,6 @@
         "first_name":  "Shradha",
         "last_name":  "Todkar",
         "company":  "J.P. Morgan India"
-    },
-    {
-        "email":  "priyanka.jobanputra@db.com",
-        "name":  "Priyanka Jobanputra",
-        "first_name":  "Priyanka",
-        "last_name":  "Jobanputra",
-        "company":  "Deutsche Bank India"
     },
     {
         "email":  "akhil.ramesh@db.com",
