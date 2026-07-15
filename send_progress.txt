@@ -1,8 +1,8 @@
-2026-07-15 06:05:48 | rahulnarang@google.com | Rahul Narang | Google India
-2026-07-15 06:06:00 | aminaarifulla@google.com | Amina Tanwar | Google India
-2026-07-15 06:06:12 | universityrelations-in@google.com | University Relations | Google India
-2026-07-15 06:06:24 | rahr@microsoft.com | Ramya H R | Microsoft India
-2026-07-15 06:06:36 | Sonia.Chawla@microsoft.com | Sonia Chawla | Microsoft India
-2026-07-15 06:06:48 | psheetal@amazon.com | Sheetal Praveenkumar | Amazon India
-2026-07-15 06:07:00 | kapadiab@amazon.com | Bhagyashree Kapadia | Amazon India
-2026-07-15 06:07:12 | samtac@amazon.com | Samta Chopra | Amazon India
+2026-07-15 13:43:41 | heenamehta@fb.com | Heena Mehta | Meta / Facebook India
+2026-07-15 13:43:53 | ritika.mathur@fb.com | Ritika Mathur | Meta / Facebook India
+2026-07-15 13:44:06 | divina_bajpai@apple.com | Divina Bajpai | Apple India
+2026-07-15 13:44:18 | renu.sevanthi@apple.com | Renu Sevanthi | Apple India
+2026-07-15 13:44:30 | tpawar@atlassian.com | Tanushree Pawar | Atlassian India
+2026-07-15 13:44:43 | girdhar@adobe.com | Himanshi Girdhar | Adobe India
+2026-07-15 13:44:55 | jraju@adobe.com | Jerin Raju | Adobe India
+2026-07-15 13:45:07 | skalra@adobe.com | Swati Kalra | Adobe India
