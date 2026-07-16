@@ -15,3 +15,11 @@ tpawar@atlassian.com
 girdhar@adobe.com
 jraju@adobe.com
 skalra@adobe.com
+kamal.stephen@sap.com
+anshita.khandelwal@sap.com
+dmanthri@salesforce.com
+esonchhatra@salesforce.com
+pbaruah@salesforce.com
+achipkar@linkedin.com
+kartheek.peyyeti@uber.com
+skatiyar@cisco.com

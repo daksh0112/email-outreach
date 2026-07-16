@@ -1,8 +1,8 @@
-2026-07-15 13:43:41 | heenamehta@fb.com | Heena Mehta | Meta / Facebook India
-2026-07-15 13:43:53 | ritika.mathur@fb.com | Ritika Mathur | Meta / Facebook India
-2026-07-15 13:44:06 | divina_bajpai@apple.com | Divina Bajpai | Apple India
-2026-07-15 13:44:18 | renu.sevanthi@apple.com | Renu Sevanthi | Apple India
-2026-07-15 13:44:30 | tpawar@atlassian.com | Tanushree Pawar | Atlassian India
-2026-07-15 13:44:43 | girdhar@adobe.com | Himanshi Girdhar | Adobe India
-2026-07-15 13:44:55 | jraju@adobe.com | Jerin Raju | Adobe India
-2026-07-15 13:45:07 | skalra@adobe.com | Swati Kalra | Adobe India
+2026-07-16 06:09:06 | kamal.stephen@sap.com | Kamal Stephen | SAP Labs India
+2026-07-16 06:09:18 | anshita.khandelwal@sap.com | Anshita Khandelwal | SAP Labs India
+2026-07-16 06:09:30 | dmanthri@salesforce.com | Daniel J. Manthri | Salesforce India
+2026-07-16 06:09:43 | esonchhatra@salesforce.com | Ektaa Sonchhatra | Salesforce India
+2026-07-16 06:09:55 | pbaruah@salesforce.com | Pallabi Baruah | Salesforce India
+2026-07-16 06:10:07 | achipkar@linkedin.com | Abhilash Chipkar | LinkedIn India (Microsoft)
+2026-07-16 06:10:19 | kartheek.peyyeti@uber.com | Kartheek Peyyeti | Uber India
+2026-07-16 06:10:30 | skatiyar@cisco.com | Samta Katiyar | Cisco India
