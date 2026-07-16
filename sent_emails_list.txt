@@ -23,3 +23,11 @@ pbaruah@salesforce.com
 achipkar@linkedin.com
 kartheek.peyyeti@uber.com
 skatiyar@cisco.com
+nitferna@cisco.com
+kamlesh.jagdale@nutanix.com
+sindhuja.p@nutanix.com
+sdasan@paloaltonetworks.com
+monika.gunalan@postman.com
+vignesh.srikanth@freshworks.com
+divya.balraj@freshworks.com
+skurudi@qualcomm.com

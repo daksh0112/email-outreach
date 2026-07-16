@@ -1,8 +1,8 @@
-2026-07-16 06:09:06 | kamal.stephen@sap.com | Kamal Stephen | SAP Labs India
-2026-07-16 06:09:18 | anshita.khandelwal@sap.com | Anshita Khandelwal | SAP Labs India
-2026-07-16 06:09:30 | dmanthri@salesforce.com | Daniel J. Manthri | Salesforce India
-2026-07-16 06:09:43 | esonchhatra@salesforce.com | Ektaa Sonchhatra | Salesforce India
-2026-07-16 06:09:55 | pbaruah@salesforce.com | Pallabi Baruah | Salesforce India
-2026-07-16 06:10:07 | achipkar@linkedin.com | Abhilash Chipkar | LinkedIn India (Microsoft)
-2026-07-16 06:10:19 | kartheek.peyyeti@uber.com | Kartheek Peyyeti | Uber India
-2026-07-16 06:10:30 | skatiyar@cisco.com | Samta Katiyar | Cisco India
+2026-07-16 13:50:24 | nitferna@cisco.com | Nita Fernandes | Cisco India
+2026-07-16 13:50:35 | kamlesh.jagdale@nutanix.com | Kamlesh Jagdale | Nutanix India
+2026-07-16 13:50:46 | sindhuja.p@nutanix.com | Sindhuja Pandian | Nutanix India
+2026-07-16 13:50:57 | sdasan@paloaltonetworks.com | Smitha Dasan | Palo Alto Networks India
+2026-07-16 13:51:08 | monika.gunalan@postman.com | Monika Gunalan | Postman India
+2026-07-16 13:51:19 | vignesh.srikanth@freshworks.com | Vignesh Srikanth | Freshworks India
+2026-07-16 13:51:31 | divya.balraj@freshworks.com | Divya Balraj | Freshworks India
+2026-07-16 13:51:41 | skurudi@qualcomm.com | Shikha Kurudi | Qualcomm India
