@@ -1,8 +1,8 @@
-2026-07-16 13:50:24 | nitferna@cisco.com | Nita Fernandes | Cisco India
-2026-07-16 13:50:35 | kamlesh.jagdale@nutanix.com | Kamlesh Jagdale | Nutanix India
-2026-07-16 13:50:46 | sindhuja.p@nutanix.com | Sindhuja Pandian | Nutanix India
-2026-07-16 13:50:57 | sdasan@paloaltonetworks.com | Smitha Dasan | Palo Alto Networks India
-2026-07-16 13:51:08 | monika.gunalan@postman.com | Monika Gunalan | Postman India
-2026-07-16 13:51:19 | vignesh.srikanth@freshworks.com | Vignesh Srikanth | Freshworks India
-2026-07-16 13:51:31 | divya.balraj@freshworks.com | Divya Balraj | Freshworks India
-2026-07-16 13:51:41 | skurudi@qualcomm.com | Shikha Kurudi | Qualcomm India
+2026-07-17 06:08:09 | muralim@qualcomm.com | Murali | Qualcomm India
+2026-07-17 06:08:20 | vkatoor@mathworks.com | Vishnu Katoor | Mathworks India
+2026-07-17 06:08:31 | jordan.sarasan@mathworks.com | Jordan Sarasan | Mathworks India
+2026-07-17 06:08:43 | Keshavk@mathworks.com | Keshav K | Mathworks India
+2026-07-17 06:08:54 | fjose@paypal.com | Frijo Jose | PayPal India
+2026-07-17 06:09:06 | prinayak@paypal.com | Priyanka | PayPal India
+2026-07-17 06:09:17 | asarma@paypal.com | Arun P Sarma | PayPal India
+2026-07-17 06:09:28 | sathish.mg@visa.com | Sathish M | Visa India
