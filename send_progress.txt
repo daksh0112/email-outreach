@@ -1,8 +1,8 @@
-2026-07-18 05:55:29 | arun.kulkarni@target.com | Arun Kulkarni | Target India
-2026-07-18 05:55:42 | shradha.todkar@jpmorgan.com | Shradha Todkar | J.P. Morgan India
-2026-07-18 05:55:55 | akhil.ramesh@db.com | Akhil Ramesh | Deutsche Bank India
-2026-07-18 05:56:07 | Neha.Kalra1@aexp.com | Neha Kalra | American Express India
-2026-07-18 05:56:19 | Charvi.Kapur1@aexp.com | Charvi Kapur | American Express India
-2026-07-18 05:56:31 | Tanya.Malik@aexp.com | Tanya Malik | American Express India
-2026-07-18 05:56:43 | Sumit.Joshi@deshaw.com | Sumit Joshi | DE Shaw India
-2026-07-18 05:56:55 | gurung@deshaw.com | Karan Gurung | DE Shaw India
+2026-07-18 13:15:10 | nishitha.kuriyas@razorpay.com | Nishitha Kuriyas | Razorpay India
+2026-07-18 13:15:21 | sumit.premi@razorpay.com | Sumit Premi | Razorpay India
+2026-07-18 13:15:32 | venkatesh.v@phonepe.com | Venkatesh Vemulamada | PhonePe India
+2026-07-18 13:15:43 | abhijeet.shankhdhar@juspay.in | Abhijeet Shankhdhar | Juspay India
+2026-07-18 13:15:54 | parul.shriwatri@juspay.in | Parul Shriwatri | Juspay India
+2026-07-18 13:16:05 | gunjan.chandak@zeptonow.com | Gunjan Chandak | Zepto India
+2026-07-18 13:16:16 | roma.bindroo@zeptonow.com | Roma Bindroo | Zepto India
+2026-07-18 13:16:27 | krittika.ghosh@groww.in | Krittika Ghosh | Groww India
