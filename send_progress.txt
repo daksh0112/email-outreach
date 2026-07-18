@@ -1,8 +1,8 @@
-2026-07-17 13:28:38 | snanjundaiah@visa.com | Shilpa Nanjundaiah | Visa India
-2026-07-17 13:28:49 | hes@nvidia.com | Hemachander Santhanam | Nvidia India
-2026-07-17 13:29:01 | spiparsania@stripe.com | Sonal Piparsania | Stripe India
-2026-07-17 13:29:12 | aishwarya.dhakate@walmart.com | Aishwarya Dhakate | Walmart Global Tech India
-2026-07-17 13:29:24 | sonia.vijay@walmartlabs.com | Sonia Vijay | Walmart Global Tech India
-2026-07-17 13:29:36 | campusrelations@walmart.com | Campus Relations | Walmart Global Tech India
-2026-07-17 13:29:47 | amit.sahu2@target.com | Amit Sahu | Target India
-2026-07-17 13:29:58 | majo.george@target.com | Majo George | Target India
+2026-07-18 05:55:29 | arun.kulkarni@target.com | Arun Kulkarni | Target India
+2026-07-18 05:55:42 | shradha.todkar@jpmorgan.com | Shradha Todkar | J.P. Morgan India
+2026-07-18 05:55:55 | akhil.ramesh@db.com | Akhil Ramesh | Deutsche Bank India
+2026-07-18 05:56:07 | Neha.Kalra1@aexp.com | Neha Kalra | American Express India
+2026-07-18 05:56:19 | Charvi.Kapur1@aexp.com | Charvi Kapur | American Express India
+2026-07-18 05:56:31 | Tanya.Malik@aexp.com | Tanya Malik | American Express India
+2026-07-18 05:56:43 | Sumit.Joshi@deshaw.com | Sumit Joshi | DE Shaw India
+2026-07-18 05:56:55 | gurung@deshaw.com | Karan Gurung | DE Shaw India
