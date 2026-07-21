@@ -1,8 +1,8 @@
-2026-07-20 14:05:39 | sudeshna@fi.money | Sudeshna Mishra | Fi Money / EpiFi
-2026-07-20 14:05:52 | shruti.c@epifi.com | Shruti Chaudhary | Fi Money / EpiFi
-2026-07-20 14:06:04 | gunjan.sheth@sliceit.com | Gunjan Sheth | Slice India
-2026-07-20 14:06:16 | sreenu.nair@sliceit.com | Sreenu Nair | Slice India
-2026-07-20 14:06:28 | navyashree.m@coinswitch.co | Navyashree M | Coinswitch India
-2026-07-20 14:06:40 | nishant.d@coinswitch.co | Nishant Das | Coinswitch India
-2026-07-20 14:06:53 | kalpana.singh@fmr.com | Kalpana Singh | Fidelity Investments India
-2026-07-20 14:07:04 | shilpa.chawla@fidelity.com | Shilpa Chawla | Fidelity Investments India
+2026-07-21 06:21:00 | nikhita.gurwara@blackrock.com | Nikhita Gurwara | BlackRock India
+2026-07-21 06:21:11 | pooja.semwal@blackrock.com | Pooja Semwal | BlackRock India
+2026-07-21 06:21:22 | phajare@blackrock.com | Pranita Hajare | BlackRock India
+2026-07-21 06:21:33 | strafford.joe@flipkart.com | Strafford Fernandes | Flipkart India
+2026-07-21 06:21:44 | sandeep.nainwal@flipkart.com | Sandeep Nainwal | Flipkart India
+2026-07-21 06:21:55 | anjali.verma@flipkart.com | Anjali Verma | Flipkart India
+2026-07-21 06:22:06 | gaurav.saxena@zomato.com | Gaurav Saxena | Zomato India
+2026-07-21 06:22:17 | kapil.batra@zomato.com | Kapil Batra | Zomato India
