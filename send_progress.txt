@@ -1,8 +1,8 @@
-2026-07-21 06:21:00 | nikhita.gurwara@blackrock.com | Nikhita Gurwara | BlackRock India
-2026-07-21 06:21:11 | pooja.semwal@blackrock.com | Pooja Semwal | BlackRock India
-2026-07-21 06:21:22 | phajare@blackrock.com | Pranita Hajare | BlackRock India
-2026-07-21 06:21:33 | strafford.joe@flipkart.com | Strafford Fernandes | Flipkart India
-2026-07-21 06:21:44 | sandeep.nainwal@flipkart.com | Sandeep Nainwal | Flipkart India
-2026-07-21 06:21:55 | anjali.verma@flipkart.com | Anjali Verma | Flipkart India
-2026-07-21 06:22:06 | gaurav.saxena@zomato.com | Gaurav Saxena | Zomato India
-2026-07-21 06:22:17 | kapil.batra@zomato.com | Kapil Batra | Zomato India
+2026-07-21 13:49:59 | natasha.sethi@zomato.com | Natasha Sethi | Zomato India
+2026-07-21 13:50:09 | manasa.mn@swiggy.in | Manasa M.N. | Swiggy India
+2026-07-21 13:50:20 | girish.menon@swiggy.in | Girish Menon | Swiggy India
+2026-07-21 13:50:31 | shayutha.kb@swiggy.in | Shayutha K | Swiggy India
+2026-07-21 13:50:42 | shivangi.rai@meesho.com | Shivangi Rai | Meesho India
+2026-07-21 13:50:53 | soumya.saxena@meesho.com | Soumya Saxena | Meesho India
+2026-07-21 13:51:04 | snigdha.jha@meesho.com | Snigdha Jha | Meesho India
+2026-07-21 13:51:15 | pranamya@sharechat.com | Pranamya Rao | ShareChat India
