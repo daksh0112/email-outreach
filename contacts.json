@@ -91,13 +91,6 @@
         "company": "Atlassian India"
     },
     {
-        "email": "girdhar@adobe.com",
-        "name": "Himanshi Girdhar",
-        "first_name": "Himanshi",
-        "last_name": "Girdhar",
-        "company": "Adobe India"
-    },
-    {
         "email": "jraju@adobe.com",
         "name": "Jerin Raju",
         "first_name": "Jerin",
@@ -427,20 +420,6 @@
         "company": "Juspay India"
     },
     {
-        "email": "gunjan.chandak@zeptonow.com",
-        "name": "Gunjan Chandak",
-        "first_name": "Gunjan",
-        "last_name": "Chandak",
-        "company": "Zepto India"
-    },
-    {
-        "email": "roma.bindroo@zeptonow.com",
-        "name": "Roma Bindroo",
-        "first_name": "Roma",
-        "last_name": "Bindroo",
-        "company": "Zepto India"
-    },
-    {
         "email": "krittika.ghosh@groww.in",
         "name": "Krittika Ghosh",
         "first_name": "Krittika",
@@ -462,32 +441,11 @@
         "company": "Groww India"
     },
     {
-        "email": "varun@cred.club",
-        "name": "Varun Hemaraj",
-        "first_name": "Varun",
-        "last_name": "Hemaraj",
-        "company": "CRED India"
-    },
-    {
         "email": "lekshmi.g@cred.club",
         "name": "Lekshmi G",
         "first_name": "Lekshmi",
         "last_name": "G",
         "company": "CRED India"
-    },
-    {
-        "email": "piyusha.pancharia@cred.club",
-        "name": "Piyusha Pancharia",
-        "first_name": "Piyusha",
-        "last_name": "Pancharia",
-        "company": "CRED India"
-    },
-    {
-        "email": "durgap@chargebee.com",
-        "name": "Durgap Prasad",
-        "first_name": "Durgap",
-        "last_name": "Prasad",
-        "company": "Chargebee India"
     },
     {
         "email": "vineeta.v@chargebee.com",
@@ -504,24 +462,10 @@
         "company": "Chargebee India"
     },
     {
-        "email": "shinjini.ghosh@hevodata.com",
-        "name": "Shinjini Ghosh",
-        "first_name": "Shinjini",
-        "last_name": "Ghosh",
-        "company": "Hevo Data India"
-    },
-    {
         "email": "sarah.jacob@hevodata.com",
         "name": "Sarah Jacob",
         "first_name": "Sarah",
         "last_name": "Jacob",
-        "company": "Hevo Data India"
-    },
-    {
-        "email": "ashna.thakur@hevodata.com",
-        "name": "Ashna Thakur",
-        "first_name": "Ashna",
-        "last_name": "Thakur",
         "company": "Hevo Data India"
     },
     {
@@ -546,20 +490,6 @@
         "company": "Innovaccer India"
     },
     {
-        "email": "jeevan.kurian@upstox.com",
-        "name": "Jeevan Kurian",
-        "first_name": "Jeevan",
-        "last_name": "Kurian",
-        "company": "Upstox India"
-    },
-    {
-        "email": "shivangisingh@upstox.com",
-        "name": "Shivangi Singh",
-        "first_name": "Shivangi",
-        "last_name": "Singh",
-        "company": "Upstox India"
-    },
-    {
         "email": "kamiya.thakur@rksv.in",
         "name": "Kamiya Thakur",
         "first_name": "Kamiya",
@@ -572,62 +502,6 @@
         "first_name": "Ananda",
         "last_name": "Pandey",
         "company": "Angel One India"
-    },
-    {
-        "email": "naina.gurang@angelbroking.com",
-        "name": "Naina Gurang",
-        "first_name": "Naina",
-        "last_name": "Gurang",
-        "company": "Angel One India"
-    },
-    {
-        "email": "ria.kharbanda.ext@bharatpe.com",
-        "name": "Ria Kharbanda",
-        "first_name": "Ria",
-        "last_name": "Kharbanda",
-        "company": "BharatPe India"
-    },
-    {
-        "email": "denzil.jose@payu.com",
-        "name": "Denzil Jose",
-        "first_name": "Denzil",
-        "last_name": "Jose",
-        "company": "PayU India"
-    },
-    {
-        "email": "rashid.kareem@payu.com",
-        "name": "Rashid ul Kareem",
-        "first_name": "Rashid",
-        "last_name": "ul Kareem",
-        "company": "PayU India"
-    },
-    {
-        "email": "Monika1.jain@paytm.com",
-        "name": "Monika Jain",
-        "first_name": "Monika",
-        "last_name": "Jain",
-        "company": "Paytm India"
-    },
-    {
-        "email": "meenal.choyal@paytm.com",
-        "name": "Meenal Choyal",
-        "first_name": "Meenal",
-        "last_name": "Choyal",
-        "company": "Paytm India"
-    },
-    {
-        "email": "sudeshna@fi.money",
-        "name": "Sudeshna Mishra",
-        "first_name": "Sudeshna",
-        "last_name": "Mishra",
-        "company": "Fi Money / EpiFi"
-    },
-    {
-        "email": "shruti.c@epifi.com",
-        "name": "Shruti Chaudhary",
-        "first_name": "Shruti",
-        "last_name": "Chaudhary",
-        "company": "Fi Money / EpiFi"
     },
     {
         "email": "gunjan.sheth@sliceit.com",
@@ -644,20 +518,6 @@
         "company": "Slice India"
     },
     {
-        "email": "navyashree.m@coinswitch.co",
-        "name": "Navyashree M",
-        "first_name": "Navyashree",
-        "last_name": "M",
-        "company": "Coinswitch India"
-    },
-    {
-        "email": "nishant.d@coinswitch.co",
-        "name": "Nishant Das",
-        "first_name": "Nishant",
-        "last_name": "Das",
-        "company": "Coinswitch India"
-    },
-    {
         "email": "kalpana.singh@fmr.com",
         "name": "Kalpana Singh",
         "first_name": "Kalpana",
@@ -672,13 +532,6 @@
         "company": "Fidelity Investments India"
     },
     {
-        "email": "nikhita.gurwara@blackrock.com",
-        "name": "Nikhita Gurwara",
-        "first_name": "Nikhita",
-        "last_name": "Gurwara",
-        "company": "BlackRock India"
-    },
-    {
         "email": "pooja.semwal@blackrock.com",
         "name": "Pooja Semwal",
         "first_name": "Pooja",
@@ -686,24 +539,10 @@
         "company": "BlackRock India"
     },
     {
-        "email": "phajare@blackrock.com",
-        "name": "Pranita Hajare",
-        "first_name": "Pranita",
-        "last_name": "Hajare",
-        "company": "BlackRock India"
-    },
-    {
         "email": "strafford.joe@flipkart.com",
         "name": "Strafford Fernandes",
         "first_name": "Strafford",
         "last_name": "Fernandes",
-        "company": "Flipkart India"
-    },
-    {
-        "email": "sandeep.nainwal@flipkart.com",
-        "name": "Sandeep Nainwal",
-        "first_name": "Sandeep",
-        "last_name": "Nainwal",
         "company": "Flipkart India"
     },
     {
@@ -761,27 +600,6 @@
         "first_name": "Shivangi",
         "last_name": "Rai",
         "company": "Meesho India"
-    },
-    {
-        "email": "soumya.saxena@meesho.com",
-        "name": "Soumya Saxena",
-        "first_name": "Soumya",
-        "last_name": "Saxena",
-        "company": "Meesho India"
-    },
-    {
-        "email": "snigdha.jha@meesho.com",
-        "name": "Snigdha Jha",
-        "first_name": "Snigdha",
-        "last_name": "Jha",
-        "company": "Meesho India"
-    },
-    {
-        "email": "pranamya@sharechat.com",
-        "name": "Pranamya Rao",
-        "first_name": "Pranamya",
-        "last_name": "Rao",
-        "company": "ShareChat India"
     },
     {
         "email": "anil.kumar@sharechat.com",
