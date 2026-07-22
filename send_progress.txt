@@ -1,8 +1,8 @@
-2026-07-21 13:49:59 | natasha.sethi@zomato.com | Natasha Sethi | Zomato India
-2026-07-21 13:50:09 | manasa.mn@swiggy.in | Manasa M.N. | Swiggy India
-2026-07-21 13:50:20 | girish.menon@swiggy.in | Girish Menon | Swiggy India
-2026-07-21 13:50:31 | shayutha.kb@swiggy.in | Shayutha K | Swiggy India
-2026-07-21 13:50:42 | shivangi.rai@meesho.com | Shivangi Rai | Meesho India
-2026-07-21 13:50:53 | soumya.saxena@meesho.com | Soumya Saxena | Meesho India
-2026-07-21 13:51:04 | snigdha.jha@meesho.com | Snigdha Jha | Meesho India
-2026-07-21 13:51:15 | pranamya@sharechat.com | Pranamya Rao | ShareChat India
+2026-07-22 06:19:58 | anil.kumar@sharechat.com | Anil Kumar | ShareChat India
+2026-07-22 06:20:09 | sudhir@sharechat.com | Sudhir Nair | ShareChat India
+2026-07-22 06:20:20 | sonali.gujare@olacabs.com | Sonali Gujare | Ola Cabs India
+2026-07-22 06:20:30 | bharathwaj.s@olacabs.com | Bharathwaj Srinivasan | Ola Cabs India
+2026-07-22 06:20:41 | eeksha.sharma@grofers.com | Eeksha Sharma | Blinkit / Grofers
+2026-07-22 06:20:52 | careers@blinkit.com | Careers | Blinkit / Grofers
+2026-07-22 06:21:03 | kaajal@dream11.com | Kaajal Thukral | Dream11 India
+2026-07-22 06:21:14 | mustafa@dream11.com | Mustafa Kesarya | Dream11 India
