@@ -1,8 +1,8 @@
-2026-07-23 06:22:50 | arushi.wadhwa@sprinklr.com | Arushi Wadhwa | Sprinklr India
-2026-07-23 06:23:01 | monesh.r@sprinklr.com | Monesh Ramasamy | Sprinklr India
-2026-07-23 06:23:12 | sidharth.tyagi@acko.tech | Sidharth Tyagi | Acko India
-2026-07-23 06:23:23 | deepa.padmaraj@acko.com | Deepa Padmaraj | Acko India
-2026-07-23 06:23:34 | Bharti.jaiswal@rapido.bike | Bharti Jaiswal | Rapido India
-2026-07-23 06:23:45 | k.sonali@rapido.bike | Karapana Sonali | Rapido India
-2026-07-23 06:23:56 | ta@rapido.bike | TA Team | Rapido India
-2026-07-23 06:24:07 | minal.sharma@delhivery.com | Minal Sharma | Delhivery India
+2026-07-23 13:59:28 | esha.mal@delhivery.com | Esha Mal | Delhivery India
+2026-07-23 13:59:39 | preetesh.saha@delhivery.com | Preetesh Saha | Delhivery India
+2026-07-23 13:59:50 | mridu.alagj@go-mmt.com | Mridu Alagh | MakeMyTrip India
+2026-07-23 14:00:01 | jitensharma@expedia.com | Jitendra Sharma | Expedia Group India
+2026-07-23 14:00:12 | pomahajan@expediagroup.com | Porvi Mahajan | Expedia Group India
+2026-07-23 14:00:38 | josdavid@expediagroup.com | Joshua David | Expedia Group India
+2026-07-23 14:00:50 | shalinisingh@urbancompany.com | Shalini Singh | Urban Company India
+2026-07-23 14:01:01 | aayushivohra@urbancompany.com | Aayushi Vohra | Urban Company India
