@@ -1,8 +1,8 @@
-2026-07-23 13:59:28 | esha.mal@delhivery.com | Esha Mal | Delhivery India
-2026-07-23 13:59:39 | preetesh.saha@delhivery.com | Preetesh Saha | Delhivery India
-2026-07-23 13:59:50 | mridu.alagj@go-mmt.com | Mridu Alagh | MakeMyTrip India
-2026-07-23 14:00:01 | jitensharma@expedia.com | Jitendra Sharma | Expedia Group India
-2026-07-23 14:00:12 | pomahajan@expediagroup.com | Porvi Mahajan | Expedia Group India
-2026-07-23 14:00:38 | josdavid@expediagroup.com | Joshua David | Expedia Group India
-2026-07-23 14:00:50 | shalinisingh@urbancompany.com | Shalini Singh | Urban Company India
-2026-07-23 14:01:01 | aayushivohra@urbancompany.com | Aayushi Vohra | Urban Company India
+2026-07-24 06:17:07 | vagmisondhi@urbancompany.com | Vagmi Sondhi | Urban Company India
+2026-07-24 06:17:19 | wajahat.ali@nykaa.com | Wajahat Ali | Nykaa India
+2026-07-24 06:17:30 | prashalini.verma@nykaa.com | Prashalini Verma | Nykaa India
+2026-07-24 06:17:41 | chaitra.rathore@myntra.com | Chaitra N Rathore | Myntra India
+2026-07-24 06:17:53 | nikitha.lingaraju@myntra.com | Nikita Lingaraju | Myntra India
+2026-07-24 06:18:04 | anand.venkateshappa@myntra.com | Anand Venkateshappa | Myntra India
+2026-07-24 06:18:15 | gkrishnan@tekion.com | Ganesh Krishnan | Tekion India
+2026-07-24 06:18:27 | gpsingh@tekion.com | Gajendra Singh | Tekion India
